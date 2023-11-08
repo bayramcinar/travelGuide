@@ -1,0 +1,80 @@
+.svg-turkiye-haritasi {
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .svg-turkiye-haritasi svg {
+    width: 100%;
+    height: auto;
+  }
+  .il-isimleri {
+    position: absolute;
+    z-index: 2;
+  }
+  .il-isimleri div {
+    font-family: 'Open Sans';
+    display: inline-block;
+    background: #1094F6;
+    color: #fff;
+    padding: 8px 16px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+  }
+  #svg-turkiye-haritasi path {
+    cursor: pointer;
+    fill: #616161;
+  }
+  #svg-turkiye-haritasi path:hover {
+    fill: #1094F6;
+  }
+  #guney-kibris {
+    pointer-events: none;
+  }
+  .card{
+    width: 200px;
+    margin: 8px;
+    padding: 0;
+  }
+  .col-6
+  {
+    gap: 8px;
+  }
+
+  .card-title{
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+  }
+  .card-body{
+    padding: 0;
+  }
+  .placeCards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal-header {
+    border-bottom: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } 
+  .modal-body{
+    padding: 0;
+  }
+  .mapLink,
+  .map {
+    width: 30px;
+    height: 30px; 
+    position: absolute;
+    z-index: 2; 
+    cursor: pointer;
+    top: 0;
+    right: 6px;
+  }
+  .modal-dialog{
+    margin-top: 10%;
+  }

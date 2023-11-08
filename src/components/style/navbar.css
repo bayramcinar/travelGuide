@@ -1,0 +1,10 @@
+.navbar-brand{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 45px;
+    color: #0d6efd;
+    padding: 10px;
+}
+.navbar{
+    margin-bottom: 20px;
+}

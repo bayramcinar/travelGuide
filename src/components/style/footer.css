@@ -1,0 +1,7 @@
+.footerBottom {
+    align-items: center;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}

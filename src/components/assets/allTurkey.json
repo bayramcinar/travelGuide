@@ -1,0 +1,4198 @@
+[
+  {
+    "name": "Adana",
+    "places": [
+      {
+        "name": "1. Sabancı Merkez Camii",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/25/1f/9e/adana-merkez-camii-ve.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/Su6VxE1JkLug359e8"
+      },
+      {
+        "name": "2. Taş Köprü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/3a/aa/9f/photo0jpg.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/rcMTuxZ9wqHgGLF29"
+      },
+      {
+        "name": "3. Varda(Alman) Köprüsü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/46/ea/c5/photo0jpg.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/aSBsh92uGNw3rbZy6"
+      },
+      {
+        "name": "4. Kapikaya Canyon",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/10/12/34/kapikaya-kanyonu.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/Aej49sYrFghuvZ2b9"
+      },
+      {
+        "name": "5. Adana Merkez Park",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/25/22/c8/adana-merkez-parkinda.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/Fr4R2bBrxvsMasvV8"
+      },
+      {
+        "name": "6. Buyuk Saat",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/eb/00/0b/buyuk-saat.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/XgKfZuzENzFQurjx7"
+      },
+      {
+        "name": "7. Adana Arkeoloji Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/20/62/34/adana-arkeoloji-muzesi.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/i8k2LMcJEqkPoohm9"
+      },
+      {
+        "name": "8. Toros Dağları",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/95/87/5e/toros-daglari.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "9. Seyhan Barajı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/8c/18/69/seyhan-baraji.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/WB8eFXUMyD7pvUzB7"
+      },
+      {
+        "name": "10. Belemedik Vadisi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/41/68/80/belemedik-1.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/B1bMjDFPEzB9N5PY9"
+      }
+    ]
+  },
+  {
+    "name": "Mersin",
+    "places": [
+      {
+        "name": "1. Aynalıgöl (Gilindire) Mağarası",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/51/5a/e2/aynaligol.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/RjX7ngaSR4qpMdW38"
+      },
+      {
+        "name": "2. Mersin Marina",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/c3/3f/23/photo0jpg.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/nfx6HuQ58RZZLFo28"
+      },
+      {
+        "name": "3. Uzuncaburç Olba Antik Kenti",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/d3/f2/83/zeus-tapinagi-uzuncaburc.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/ZWsySevcp8j9AdMt6"
+      },
+      {
+        "name": "4. Kızkalesi Castle",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/77/64/05/kizkalesi.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "5. Mut Yerköprü Şelalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/30/52/9e/the-color-of-the-water.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/PcfWzeBXm1aNZT7C9"
+      },
+      {
+        "name": "6. Alahan Manastırı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/48/15/89/alahan-manastiri.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/AQd4EipGben7AGh98"
+      },
+      {
+        "name": "7. Hz. Mikdat (Mugdat) Camii",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/dc/b8/80/caption.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/q6iVfhswbhs7B9X57"
+      },
+      {
+        "name": "8. Atatürk Evi Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/08/89/09/photo0jpg.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/QNLViiPJs22PBbU97"
+      },
+      {
+        "name": "9. Mersin Arkeoloji Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/08/92/2a/photo0jpg.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/4jFyBEyK6FpL1rMfA"
+      },
+      {
+        "name": "10. Adam Kayalar",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/52/49/6d/adam-kayalar.jpg?w=500&h=400&s=1",
+        "map": ""
+      }
+    ]
+  },
+  {
+    "name": "Antalya",
+    "places": [
+      {
+        "name": "1. Kaleiçi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/50/70/c5/harbour-from-lift.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/1f2gnyd59m7H4kz49"
+      },
+      {
+        "name": "2. Lower Duden Waterfalls",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/b2/d3/17/duden-waterfalls.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/KBWuNiWNZ13QRkDr6"
+      },
+      {
+        "name": "3. Antalya Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/92/67/4d/monument-room.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/YvUQwb31SxWmvJ8f8"
+      },
+      {
+        "name": "4. Perge Antik Kenti",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b7/f4/87/12000-besucher-sahen.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "5. Kaleici Marina",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ac/94/61/old-marina.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/exwrsPB6k8DhRygW6"
+      },
+      {
+        "name": "6. Termessos Kaplıcaları",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a9/ae/a2/termessos.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "7. Hadrian Kapısı (Üç Kapılar)",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4c/48/99/hadrianstor-in-antalya.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/f4msE8ADZA9NU7pN6"
+      },
+      {
+        "name": "8. Kurşunlu Şelaleleri",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/78/f1/87/20180519-152211-largejpg.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "9. Konyaaltı Plajı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a4/fc/ef/img-619cea9bffff694755f532de5e.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/ibV9PPz7rngm2FETA"
+      },
+      {
+        "name": "10. TerraCity Alışveriş Merkezi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/6b/94/4a/terracity.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/nFiUgF9bghCh91NL7"
+      }
+    ]
+  },
+  {
+    "name": "Hatay",
+    "places": [
+      {
+        "name": "1. Antakya Arkeoloji Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6c/9b/5b/hatay-arkeoloji-muzesi.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "2. Eski Antakya",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/1d/ed/01/old-buildings.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/Vd1KyDqjezrciZVQ8"
+      },
+      {
+        "name": "3. Habib-i Neccar Camisi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e1/79/ed/habib-i-neccar-camisi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/k2vyJPd8jpexzV3V8"
+      },
+      {
+        "name": "4. Titus Kaya Tüneli",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e1/57/68/hatay.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "5. Vakıflı Köyü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/f1/95/77/vakifli-koyu.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/QZsPyGokRpkFapfi8"
+      },
+      {
+        "name": "6. St Pierre Kilisesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/cf/ba/2e/st-pierre-kilisesi-antakya.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/dAqsDHsCPd5ZrhN38"
+      },
+      {
+        "name": "7. Uzun Çarşı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/de/06/15/5-uzun-carsi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/Bbjqe2etRZYiJho1A"
+      },
+      {
+        "name": "8. Harbiye Selalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e7/10/08/harbiye-selalesi.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/or6ayA92RdZcK5u1A"
+      },
+      {
+        "name": "9. Hıdırbey Musa Ağacı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/0f/e1/be/moses-tree.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/579SctL26NAY5SCh7"
+      },
+      {
+        "name": "10. İskenderun Sahili",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/dd/98/d1/sahil-yuruyus-yolu.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/TAWtSgERcCynmqJ9A"
+      }
+    ]
+  },
+  {
+    "name": "Isparta",
+    "places": [
+      {
+        "name": "1. Eğirdir Gölü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/46/63/85/egirdir-golu-largejpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/HTuMK6VmAGwjeER18"
+      },
+      {
+        "name": "2. Suleyman Demirel Demokrasi ve Kalkınma Muzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d3/f6/24/suleyman-demirel-demokrasi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/cvWcq6TGa44XQENdA"
+      },
+      {
+        "name": "3. Kuyucak Köyü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/5e/ca/91/the-fields.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/vVKcHDafNAB4sycx5"
+      },
+      {
+        "name": "4. Kızıldağ Milli Parkı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/c4/24/ce/kizildag-milli-parki.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/yA3ZMsiMA8DBo8TLA"
+      },
+      {
+        "name": "5. Zindan Mağarası",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/da/d9/2c/20180726-125307-largejpg.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "6. İyaş Park Alışveriş Merkezi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/e6/be/91/iyas-park.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/ipPH3pWyQYvPRWJ98"
+      },
+      {
+        "name": "7. Pınargozu Magarası",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/31/a0/da/pinargozu-magarasi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/QxoP5XSydf387YtM6"
+      },
+      {
+        "name": "8. Prof. Dr. Turan Yazgan Halı ve Kilim Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/cb/27/db/prof-dr-turan-yazgan.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "9. Ayazmana Mesireliği",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/88/67/c3/20170903-220619-largejpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/MfG9GxzwkAP4TUpH7"
+      },
+      {
+        "name": "10. Firdevs Bey Cami ve Bedesteni",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/85/e6/d5/firdevs-bey-bedesteni.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/wDbcLzcxzNpnmcio9"
+      }
+    ]
+  },
+  {
+    "name": "Burdur",
+    "places": [
+      {
+        "name": "1. Arkeoloji Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/db/57/c9/20170402-125906-largejpg.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "2. Salda Golu",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/34/18/9c/part-of-the-lake.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/7T8RswQ4MqqMokCL7"
+      },
+      {
+        "name": "3. İnsuyu Mağarası",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c8/89/79/20160901-124001-largejpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/7DZzQuG832Jmbwf78"
+      },
+      {
+        "name": "4. Doğa Tarihi Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/8a/82/2d/burdur-doga-tarihi-muzesi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/z78DGmLwjoJWhqe39"
+      },
+      {
+        "name": "5. Karacaoren Baraji",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/56/99/93/cekergezer-hakan-aydin.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/8EzubaLVbGKcZ6dh8"
+      },
+      {
+        "name": "6. Burdur Saat Kulesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a2/c0/ef/burdur-saat-kulesi-ve.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/YgJDnCqZhqbjSV217"
+      },
+      {
+        "name": "7. Taşoda Konağı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ab/40/58/baki-bey-konagi4.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/BkWaQFVhUfJaDoo37"
+      },
+      {
+        "name": "8. Lisinia Doğa",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/bb/0c/photo4jpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/SAt9KAUF5xvHQHrg8"
+      },
+      {
+        "name": "9. Burdur Anitlari",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/f9/b0/52/20160710-153434-largejpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/9vkubs4wjb2RuFQ38"
+      },
+      {
+        "name": "10. Burdur Gölü Plajı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c8/54/fc/20160901-113146-largejpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/RDasFS7HHUsBce4GA"
+      }
+    ]
+  },
+  {
+    "name": "Osmaniye",
+    "places": [
+      {
+        "name": "1. Karaçay Şelalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/27/40/32/karacay-selalesi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/UFMjPKnbUonGqoum6"
+      },
+      {
+        "name": "2. Kastabala Antik Kenti",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/44/b5/f8/img-20190423-165117-largejpg.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/xU9aootYSh8akE5u8"
+      },
+      {
+        "name": "3. Karatepe Aslantaş Açık Hava Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/57/7f/d3/karatepe-aslantas-acik.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/2jCa3SFVewacHZRz8"
+      },
+      {
+        "name": "4. Osmaniye Kent Muzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/bf/74/f3/getlstd-property-photo.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/H3uxF3EB7WUTTakZA"
+      },
+      {
+        "name": "5. Sabun Cayi Şelaleleri",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/60/66/9e/getlstd-property-photo.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/pJTDdSRXnBdd5zkj9"
+      },
+      {
+        "name": "6. Berke Barajı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/73/04/40/berke-baraji.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/3C8wkSWciSnfKFAo6"
+      },
+      {
+        "name": "7. Karatepe - Aslantaş Milli Parkı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/ef/b1/de/getlstd-property-photo.jpg?w=400&h=300&s=1",
+        "map": "https://maps.app.goo.gl/jTazCKgPm8kwq2EP8"
+      },
+      {
+        "name": "8. Toprakkale Kalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/16/a1/a9/getlstd-property-photo.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/CMVueHoibHfqkuTp9"
+      },
+      {
+        "name": "9. Ala Cami",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/3e/0a/47/getlstd-property-photo.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "10. Kırmıtlı Kuş Cenneti",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/34/ad/07/kirmitli-kus-cenneti.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/4HZVhr43sDnSC2tt8"
+      }
+    ]
+  },
+  {
+    "name": "Kahramanmaraş",
+    "places": [
+      {
+        "name": "1. Abdulhamid Han Camii",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/20/fe/be/abdulhamid-han-cami-23.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/RfdHQtheaZnANRTW8"
+      },
+      {
+        "name": "2. Kahramanmaras Arkeoloji Muzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/43/55/41/kahramanmaras-arkeoloji.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/28jHvRXQqTgMYtrB8"
+      },
+      {
+        "name": "3. Ulu Camii",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/3d/7e/43/dscn0982-largejpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/mUF1HUxiYt31SdnZA"
+      },
+      {
+        "name": "4. Kahramanmaras Kalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/f4/61/c0/kahramanmaras-kalesi.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/F9aJukxhg1QkGiQM6"
+      },
+      {
+        "name": "5. Yeşil Göl",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/dc/79/fc/green-lake.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/P1BBFi7APj4FWjE87"
+      },
+      {
+        "name": "6. Ashab-ı Kehf",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/aa/81/e6/namazgah.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/rcDDmn5Y7dz1UuS47"
+      },
+      {
+        "name": "7. Piazza",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/a4/cb/67/piazza-avm.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/bNsk2n4xucj8cHYE7"
+      },
+      {
+        "name": "8. Dondurma Muzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/49/97/8b/dondurma-muzesi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/9x5nEsnePjciHosr9"
+      },
+      {
+        "name": "9. Başkonuş Yaylası",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e8/b8/2d/baskonus-mesire-alani.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "10. Tarihi Ceyhan Köprüsü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/92/1c/00/dsc-0077-largejpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/tJt49JQBEW3ZZKSH9"
+      }
+    ]
+  },
+  {
+    "name": "Bingöl",
+    "places": [
+      {
+        "name": "1. 33 Şehit Anıtı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/7b/62/6f/33-sehit-aniti-3.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/zt9cQCWVs4gbwsfW6"
+      },
+      {
+        "name": "2. Yüzen Ada",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3d/cb/67/gorule-bilir.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "3. Kalium AVM",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9d/38/20/kalium-avm.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "4. Bingöl Beledives Rabia Parki",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/49/b2/42/bingol-beledives-rabia.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/u4H3NygrHnBfytoy6"
+      },
+      {
+        "name": "5. Bingöl Dörtyol Saat Kulesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/0d/6a/aa/sokak.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/Fm8a7mnkWnR1QMrM9"
+      },
+      {
+        "name": "6. Buban Bacaları",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/c9/f1/89/ak.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/BoToUGFzXzeg8tkR7"
+      },
+      {
+        "name": "8. Çapakçur Bal",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/14/c8/39/urun.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/CFK91dwskyQQaSR18"
+      },
+      {
+        "name": "10. Ulu Cami Hamamı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/99/8e/23/hamam-banner.jpg?w=500&h=400&s=1",
+        "map": ""
+      }
+    ]
+  },
+  {
+    "name": "Bitlis",
+    "places": [
+      {
+        "name": "1. Nemrut Gölü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/18/e5/3e/images-6-largejpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/e1oj8DSMUHNARYCSA"
+      },
+      {
+        "name": "2. Ahlat Mezar Taslari",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/14/80/0a/ahlat-mezar-taslari.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/gUZ7Vv525V59jW5o6"
+      },
+      {
+        "name": "3. Bitlis Etnografya Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/71/90/d7/bitlis-etnografya-muzesi.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "4. İslahiye Medresesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/eb/91/98/selcuklu-hatirasi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/5YxCHQRNuJVA6vfLA"
+      },
+      {
+        "name": "5. Bitlis Castle",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/32/d9/f7/beyaz-siyah.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "6. Aygır Gölü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/c7/e7/b7/aygir-golu.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/9grWpEThMuyQKSY37"
+      },
+      {
+        "name": "7. El Aman Han",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f6/e8/20/rahvakervansarayi1-largejpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/syqsCPT8UuKpxj2M8"
+      },
+      {
+        "name": "8. Alparslan Heykeli Güroymak",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f7/01/7d/alparslan-heykeli-guroymak.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/JtH5Pe6UGcLxZ3nd6"
+      },
+      {
+        "name": "9. Sultaniye Camii Bitlis",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f6/5c/2c/sultaniye-camii-bitlis.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/qnuwc7Bhaaw2MtqX6"
+      },
+      {
+        "name": "10. Gazibey Camii Bitlis",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f6/88/f3/gazibey-camii-bitlis.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/qnuwc7Bhaaw2MtqX6"
+      }
+    ]
+  },
+  {
+    "name": "Elazığ",
+    "places": [
+      {
+        "name": "1. Keban Barajı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/78/3a/fa/keban-baraji.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/CCLkQozJJMimmGYy7"
+      },
+      {
+        "name": "2. Harput Kalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5e/7f/2f/photo0jpg.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/SCAVddmvTGHvGjq39"
+      },
+      {
+        "name": "3. Harput Ulu Cami",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/be/12/f7/20161127-155323-largejpg.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/QJhDDTWMNGgFH6De6"
+      },
+      {
+        "name": "4. Hazar Gölü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/0b/5d/86/hazar-golu-7.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/SanAcH5f1RGpomgr6"
+      },
+      {
+        "name": "5. Harun Sanat Galerisi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/07/52/ac/harun-sanat-galerisi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/dG4UQNbhE9sK14ki6"
+      },
+      {
+        "name": "6. Izzet Pasa Camii",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/50/0b/3d/izzet-pasa-camii-20.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "7. Kömürhan Köprüsü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/c8/da/d1/20180416-103406-largejpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/pgwsNAjBUABvntUS9"
+      },
+      {
+        "name": "8. Kapalı Çarşı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/25/a8/a3/kapali-carsi-1.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/pFFZh5bi79RWGBXM7"
+      },
+      {
+        "name": "9. Palu Kalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/4e/16/11/palu-kalesi-4.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/e64mzuzLibfW8AEn9"
+      },
+      {
+        "name": "10. Sara Hatun Camii",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/fb/c3/6d/sara-hatun-camii-2.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/sh1orDzZtyZJaa2E9"
+      }
+    ]
+  },
+  {
+    "name": "Erzincan",
+    "places": [
+      {
+        "name": "1. Girlevik Şelalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/7b/df/3f/girlevik-selalesi-erzincan.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "2. Kemaliye Karanlık Kanyon",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/07/12/72/img-20190619-114652-largejpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/kgs4yLqFtLyBR8BB8"
+      },
+      {
+        "name": "3. Ekşisu Mesire Alanı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/35/36/2f/eksisu27.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/322nZzd55XbJbo4h8"
+      },
+      {
+        "name": "4. Atatürk Portresi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e6/3d/bb/ataturk-portresi-19.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/2ECAQ6qK1vp1H36P8"
+      },
+      {
+        "name": "5. Terzibaba Mezarlığı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/35/10/9f/terzibaba-mezarligi-11.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/UYF8njzdD4GaBwhu5"
+      },
+      {
+        "name": "6. Erzincan Saat Kulesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e6/3d/2a/erzincan-saat-kulesi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/QyiXvEWbSKiGp7CV7"
+      },
+      {
+        "name": "7. Otlukbeli Gölü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/bc/34/63/photo1jpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/fDHrsXrG8DJ4UM1o6"
+      },
+      {
+        "name": "8. Terzibaba Camii",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/17/cf/8e/20180811-093128-largejpg.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/f37ZTPsyQQs3ehxq9"
+      },
+      {
+        "name": "9. Ergan Alışveriş Merkezi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/38/25/7b/ergan-alisveris-merkezi3.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/SL6ovAVbPQJsWyNB8"
+      },
+      {
+        "name": "10. İsmet İnönü Heykeli",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e8/6e/e9/ismet-inonu-heykeli-6.jpg?w=500&h=400&s=1",
+        "map": ""
+      }
+    ]
+  },
+  {
+    "name": "Erzurum",
+    "places": [
+      {
+        "name": "1. Çifte Minareli Medrese",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/5e/31/58/medrese-kubbesi.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/BeYg2JHZHvbhvPpv7"
+      },
+      {
+        "name": "2. Yakutiye Medresesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/85/6b/72/yakutiye-camii.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/gAmma9V2bRG7uKXw9"
+      },
+      {
+        "name": "3. Tortum Gölü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/01/68/10/tortum-golu.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/NkRuaWobEJCG9Wo59"
+      },
+      {
+        "name": "4. Palandöken Dağı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/6c/56/0f/dagdan-gorunum.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "5. Tortum Şelalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/42/e7/0f/selaleye-yukaridan-bakis.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/T2DpAAAtCFGiL8S16"
+      },
+      {
+        "name": "6. Adurrahman Gazi hz türbesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/9c/af/80/adurrahman-gazi-hz-turbesi.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/L5pJJe5LmBFj5fQP8"
+      },
+      {
+        "name": "7. Gamezone Playstation",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/12/ac/2b/gamezone-playstation.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/EBxokusoTd2pxxzh8"
+      },
+      {
+        "name": "8. Çifte Minareli Medrese",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/a1/ba/f3/cifte-minareli-medrese.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/BeYg2JHZHvbhvPpv7"
+      },
+      {
+        "name": "9. Erzurum Kongre ve Milli Mücadele Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/3b/a6/c4/erzurum-kongre-ve-milli.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/68tV7L6iBkppXvLu8"
+      },
+      {
+        "name": "10. Atatürk Evi Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/fe/26/c2/ataturk-evi-erzurum.jpg?w=300&h=300&s=1",
+        "map": ""
+      }
+    ]
+  },
+  {
+    "name": "Hakkâri",
+    "places": [
+      {
+        "name": "1. Beyaz Şelale",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/1f/a2/cf/kaval-selalelelri.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "2. Cilo Buzulları",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a6/87/51/mutluluk.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/qt5BiFNvDGtpwdG76"
+      },
+      {
+        "name": "3. Sat Buzul Gölleri",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/ee/2d/a3/poz.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/tQaTNPSzFpkMor7o6"
+      },
+      {
+        "name": "4. Tarihi Taş Evler",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/c1/48/07/doga.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "5. Meydan Medresesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a6/85/15/baslik.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/Qet6KNDGXups4uz16"
+      },
+      {
+        "name": "6. Cennet Cehennem Vadisi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f2/df/ee/ince.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/M9CJXTfgGdV2j1V88"
+      },
+      {
+        "name": "7. Gêlezu Şelalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f2/bb/05/beyaz.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "8. Mar Şalita",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/22/77/fb/uzaktan.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "9. Tarihi Değirmen",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/44/1e/42/400-yillik-tarihi-degirmen.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "10. Gelezu Şelalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/fa/93/bc/bakis.jpg?w=500&h=-1&s=1",
+        "map": ""
+      }
+    ]
+  },
+  {
+    "name": "Kars",
+    "places": [
+      {
+        "name": "1. Ani Antik Kenti",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/cd/d2/7a/ani.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/QSJkio9trtJpLDpc8"
+      },
+      {
+        "name": "2. Havariler Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ba/f9/01/havariler-muzesi.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "3. Kars Kalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/39/9f/5d/kars-kalesi.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "4. Ani Katedrali",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/38/ce/3f/tarihe-sahip-cikalim.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/vzQDRMFwHGg1NApU9"
+      },
+      {
+        "name": "5. Kafkas Cephesi Harp Tarihi Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f6/67/3c/kafkas-cephesi-harp-tarihi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/zBwpLoMcFtxyvJ5h9"
+      },
+      {
+        "name": "6. St. Gregory Kilisesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/af/99/02/ani-oren-yeri.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "7. Sarıkamış Kış Turizm Merkezi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/4b/a3/67/photo0jpg.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/zpvtbLn5hzySybrS9"
+      },
+      {
+        "name": "8. Menuçehr Camii",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/38/d8/61/bu-camii-olmadan-ani.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/ebPKckN3KLXAhH1t6"
+      },
+      {
+        "name": "9. Kars Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/9b/21/b0/kars-muzesi.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/QevTxF1kvf6TdTT8A"
+      },
+      {
+        "name": "10. Tigran Honents Kilisesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/c2/c8/99/caption.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/KbFqsHsEc1tmtTUx9"
+      }
+    ]
+  },
+  {
+    "name": "Malatya",
+    "places": [
+      {
+        "name": "1. Battalgazi Ulu Cami",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/26/93/de/malatya-battalgazi-ulu.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/Y442Job4zqBR7yzY6"
+      },
+      {
+        "name": "2. Şire Pazarı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/2d/6c/e6/malatya-sire-pazari.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "3. Levent Vadisi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/89/dd/57/photo1jpg.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/3nX6SMHGkLPDoMze7"
+      },
+      {
+        "name": "4. Aslantepe Ören Yeri",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/02/1b/9f/malatya.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/mufbw2FtYYZHg3SV8"
+      },
+      {
+        "name": "5. Silahtar Mustafa Paşa Kervansarayı",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/5b/12/12/anadolunun-bilinmeyen.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/Ccku28raHzmL4G568"
+      },
+      {
+        "name": "6. Malatya Başkonaklar Etnografya Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/bf/f9/b5/bes-konaklar.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "7. Arslantepe Höyüğü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/03/5e/29/melid.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "8. Orduzu Çınar Şelalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8f/92/1f/orduzu-cinar-yeni-hali.jpg?w=500&h=400&s=1",
+        "map": ""
+      },
+      {
+        "name": "9. Malatya Müzesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/13/b1/e6/malatya-muzesi-2.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/qB7Ph1Qqix2ewn6z6"
+      },
+      {
+        "name": "10. MalatyaPark Alışveriş Merkezi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/26/a3/71/malatyapark-alisveris.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/JNQDNbthnQLXnFZG9"
+      }
+    ]
+  },
+  {
+    "name": "Muş",
+    "places": [
+      {
+        "name": "1. Korkut Baraj Gölü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/11/e4/e8/derin.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/74So5dP7HTaEY48K6"
+      },
+      {
+        "name": "2. Muş Kalesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/71/e2/27/mus-kalesi-parki.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/LFmoEmNKXm3C5NpM6"
+      },
+      {
+        "name": "3. Yıldızlı Han",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/10/46/10/tam.jpg?w=500&h=400&s=1",
+        "map": "https://maps.app.goo.gl/5fH8QmrhDtvp94CG9"
+      },
+      {
+        "name": "4. Geleneksel Muş Evleri",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/10/30/de/yasam.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "5. Abdulvahap Gazi Türbesi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/10/fc/d8/avlu.jpg?w=500&h=-1&s=1",
+        "map": ""
+      },
+      {
+        "name": "6. Haçlı (Bulanık) Gölü",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f4/36/04/images-largejpg.jpg?w=500&h=-1&s=1",
+        "map": "https://maps.app.goo.gl/crwfQUJSE2wQooCeA"
+      },
+      {
+        "name": "7. Hacı Şeref Camii",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/fb/d7/3e/minare.jpg?w=500&h=400&s=1"
+      },
+      {
+        "name": "8. Ceylan Eğlence Merkezi",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/52/7e/b9/ceylan-avm.jpg?w=500&h=400&s=1"
+      }
+    ]
+  },
+    {
+      "name": "Tunceli",
+      "places": [
+        {
+          "name": "1. Munzur Gözeleri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/6c/50/86/munzur-gozeleri.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/Hp4AWgbhroBH1apX6"
+        },
+        {
+          "name": "2. Munzur Vadisi Milli Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/36/0b/6d/overview.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/yaz19Pwa87XCUtqd6"
+        },
+        {
+          "name": "3. Örenönü Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/30/e3/01/1-orenonu.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/81ngjDuGmfhHXGHDA"
+        },
+        {
+          "name": "4. Kutu Deresi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/69/86/82/kutu-deresi-tunceli.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Munzur Dağları",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/97/4d/04/munzur-vadisi-milli-parki.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/oL4RfXmB8u1PB1xh9"
+        },
+        {
+          "name": "6. In delikleri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/9a/89/5d/in-delikleri-9.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/zP3Qabujk2q8ix669"
+        },
+        {
+          "name": "7. Pertek Feribot",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/8a/e8/1c/pertek-feribot-9.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Tunceliler Feribotu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/b3/34/1a/tunceliler-feribotu-15.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "9. Cemisgezek Feribotu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/89/fc/a4/cemisgezek-feribotu-3.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Ergen Kilisesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/78/98/b8/the-altar.jpg?w=500&h=400&s=1",
+          "map": ""
+        }
+      ]
+    },
+    {
+      "name": "Van",
+      "places": [
+        {
+          "name": "1. Akdamar Adası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/e4/84/e2/akdamar-island.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Van Gölü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/99/3e/1b/van-golu.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Van Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/ff/a9/da/van-kalesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/og2VnChdBxEhnGZb8"
+        },
+        {
+          "name": "4. Akdamar Kilisesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7b/e5/ca/akdamar-kilisesi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Muradiye Şelalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d4/c5/c5/piknikcilerin-mekani.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Van Kedisi Evi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/59/e4/0a/house-of-van-cats.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Q9Z4twvJNzic7adW9"
+        },
+        {
+          "name": "7. Hoşap Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ac/f4/5c/photo0jpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/D5Tak9hnPfn5tRsa8"
+        },
+        {
+          "name": "8. Van AVM",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/58/46/67/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/BUBsXYmY8Uq2mGHw5"
+        },
+        {
+          "name": "9. Eski Van",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/55/f0/90/old-van.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/6KCZeyUBCnoARGxDA"
+        },
+        {
+          "name": "10. Çavuştepe Antik Urartı bölgesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/66/00/17/ancient-urartian-site.jpg?w=500&h=-1&s=1",
+          "map": ""
+        }
+      ]
+    },
+    {
+      "name": "Ağrı",
+      "places": [
+        {
+          "name": "1. Ağrı Dağı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/34/71/5e/mount-ararat.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/szPihXNQae5t9npF6"
+        },
+        {
+          "name": "2. İshak Paşa Sarayı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/34/36/58/ishak-pasa-sarayi-ve.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/qstAE38mXE7CDmH36"
+        },
+        {
+          "name": "3. Ahmedi Hani Turbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ce/64/5a/agri-daginda-bir-sultan.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/K3RQdPuT21mfFJpc8"
+        },
+        {
+          "name": "4. Diyadin Kaplıcaları",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/48/5b/9c/such-great-place.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Ağrı Dağı Milli Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/db/c4/b9/getlstd-property-photo.jpg?w=300&h=300&s=1 ",
+          "map": "https://maps.app.goo.gl/szPihXNQae5t9npF6"
+        }
+      ]
+    },
+    {
+      "name": "Ardahan",
+      "places": [
+        {
+          "name": "1. Çıldır Gölü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/f4/12/f2/cildir-golu.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/9qdDexqSQzmThDyZ9"
+        },
+        {
+          "name": "2. Seytan Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/cd/d7/e1/the-canyon.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/82iv2T1ZjfukG8tb7"
+        },
+        {
+          "name": "3. Ardahan Yalnızçam Kayak Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/70/62/8c/telesiyejden-gorunum.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Qj6ARuHLRUMy7HnRA"
+        },
+        {
+          "name": "4. Cemal Tural Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/02/c6/7c/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/3ZkxoiLzj4rK1A7i9"
+        }
+      ]
+    },
+    {
+      "name": "Iğdır",
+      "places": [
+        {
+          "name": "1. Karakoyunlu İlçesi Mezarlığı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/7a/e6/00/gecis.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Şehit Türkler Anıt Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/ee/b6/39/monument-museum-of-martyr.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/3ys1Tk9xtRcKL3N89"
+        },
+        {
+          "name": "3. Iğdır Kervansarayı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/e2/99/e6/askeriyenin-kontrolunde.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/pVhcfVSJeYb1UiMs9"
+        }
+      ]
+    },
+    {
+      "name": "İzmir",
+      "places": [
+        {
+          "name": "1. Kemeraltı Çarşısı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ae/4c/97/kemeralti-carsisi-nda.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/tQ29NNi6dwBEVvK88"
+        },
+        {
+          "name": "2. Kordon Boyu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/46/bf/e2/kordonboyu.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Alsancak",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/33/c3/4b/alsancak.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/pJtWhu5Dmsq2j4w96"
+        },
+        {
+          "name": "4. Tarihi Asansör",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/be/3b/00/tarihi-asansor.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/FmGKtu2oWRSYFjrU6"
+        },
+        {
+          "name": "5. Saat Kulesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/db/d5/b2/saat-kulesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/qUo7WYffKp2kqKgK9"
+        },
+        {
+          "name": "6. İzmir Doğal Yaşam Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/8d/90/f6/asya-filleri-bebumcan.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/kUocVBCKgn4xonS28"
+        },
+        {
+          "name": "7. KEY Museum",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/13/a6/04/key-museum-izmir-in-torbali.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/bi61a1yX135xge4L7"
+        },
+        {
+          "name": "8. Arkas Sanat Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/1e/87/5e/arkas-sanat-alsancak.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/gwRiTPzG5AEi2he76"
+        },
+        {
+          "name": "9. Konak Meydanı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/76/6d/b8/konak-square.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. MaviBahçe Alışveriş Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ab/a2/bd/cok-guzel-bir-avm.jpg?w=500&h=-1&s=1",
+          "map": ""
+        }
+      ]
+    },
+    {
+      "name": "Manisa",
+      "places": [
+        {
+          "name": "1. Aigai Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1d/fd/4b/aiga-antik-kenti.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/3dhKcGYSaQBeQaL46"
+        },
+        {
+          "name": "2. Sultan Camii ve Kulliyesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/4e/87/d5/goz-doktoru.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/zSWfhuBQ9bAoNrpm9"
+        },
+        {
+          "name": "3. Spil Dağı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3b/45/48/photo7jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/tY5boGk5ovRMJM5c9"
+        },
+        {
+          "name": "4. Yanık Ülke",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/2b/e3/5d/caption.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Atatürk Kent Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/6e/b8/7c/manisa-ataturk-kent-parki.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/uZW4Bee4WrYsxppa8"
+        },
+        {
+          "name": "7. Manisa Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/ad/4e/48/female-gravestones.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/TKxhkyVGEtxXPNeM7"
+        },
+        {
+          "name": "8. Magnesia AVM",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/3c/98/a8/magnesia-avm.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/HqWoL9WY6eSsevWM7"
+        },
+        {
+          "name": "9. Sehzadeler Parki",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e6/36/71/harika-bir-park.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/wXoibozdayt73MT69"
+        },
+        {
+          "name": "10. Kavaklıdere Şarapları",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/30/a2/58/kavaklidere-saraplari.jpg?w=500&h=-1&s=1",
+          "map": ""
+        }
+      ]
+    },
+    {
+      "name": "Aydın",
+      "places": [
+        {
+          "name": "1. Güzelçamlı Milli Park",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ec/7a/e2/buraya-geldigimizde-ilk.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/xugwLS7uYhx1dZBv8"
+        },
+        {
+          "name": "2. Nysa Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/3a/df/40/nysa-antik-kenti.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ZkDu1r7PDg54fZPEA"
+        },
+        {
+          "name": "3. Tralleis Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/c4/45/e8/tralleis-antik-kenti.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/Lrajcj2SD7T7yFJg6"
+        },
+        {
+          "name": "4. Aydın Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/88/ec/e6/muze.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/BDasdFx5fqUG4fnQ8"
+        },
+        {
+          "name": "5. Alabanda Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/11/03/1f/alabanda-antik-kenti.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Arapapıştı Kanyonu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/28/7a/c1/arapapisti-kanyonu.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/T7V4gy8Vy4PsayfJ7"
+        },
+        {
+          "name": "7. Aydin Arkeoloji Muzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/b6/52/db/aydin-arkeoloji-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/zZR2r1tudHQ5PU5A7"
+        },
+        {
+          "name": "8. Yörük Ali Efe Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/bc/ab/4d/yoruk-ali-efe-muzesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/L7L4YW4bQCywqgPK9"
+        },
+        {
+          "name": "9. Alinda Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/df/2e/7f/agora.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Herakleia Latmos Antik Kent",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/b1/aa/41/herakleia-latmos-antik.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/JWmf22ia9hsKn7y9A"
+        }
+      ]
+    },
+    {
+      "name": "Uşak",
+      "places": [
+        {
+          "name": "1. Taşyaran Vadisi Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/db/7f/37/tasyaran-vadisi-usak.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Tt2bv2SLgYE6aQZL8"
+        },
+        {
+          "name": "2. Ulubey Canyon",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/bd/4a/a8/ulubey-canyon.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/WpFred6NjAZgrSEs9"
+        },
+        {
+          "name": "3. Cilandiras Koprusu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/03/5b/5f/cilandiras-koprusu.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/FUfhi6kP5yzELWTw7"
+        },
+        {
+          "name": "4. Arkeoloji Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b3/5b/4b/arkeoloji-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/ozZie8u4QSVcuBPh8"
+        },
+        {
+          "name": "5. Halı-Kilim Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/d0/4b/19/hali-kilim-muzesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/GnKStL5DqJzX3D6q7"
+        },
+        {
+          "name": "6. Usak Ataturk Ve Etnografya Muzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/02/31/a8/20180804-145930-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/yHkaPs8DdUnad43V8"
+        },
+        {
+          "name": "7. Usak Kent Tarihi Muzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b1/cd/58/usak-kent-tarihi-muzesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/LkXmoNPzAGmaHcSG7"
+        },
+        {
+          "name": "8. Blaundus Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cf/0e/63/blaundus-antik-kentinden.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "9. Atapark",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/03/5b/b9/atapark.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/5QfpthiB6EpTKYMHA"
+        },
+        {
+          "name": "10. Festiva Outlet",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4d/18/9c/festiva-outlet.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/CgXNUwgnviFHnTsUA"
+        }
+      ]
+    },
+    {
+      "name": "Kütahya",
+      "places": [
+        {
+          "name": "1. Aizanoi Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/86/b2/78/5-aizanoi-antik.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/b7pW26hBGg6FWinWA"
+        },
+        {
+          "name": "2. Kütahya Ulu Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/86/b6/00/5-kutahya-ulu-camii.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/jJq1djebXZEnBX3w7"
+        },
+        {
+          "name": "3. Macar Evi Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/4f/2d/34/photo2jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/DTDYkwf3Q1C9FVtQ9"
+        },
+        {
+          "name": "4. Kütahya Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/1e/ee/c3/img-20180808-081549-hdr.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/JwAmkRfbVgDFVDAg9"
+        },
+        {
+          "name": "5. Dumlupınar Şehitliği",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ff/fa/2e/img-20190620-180038-454.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Arkeoloji Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/02/2b/66/photo2jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/gH9f5VrXSoHCArAQ9"
+        },
+        {
+          "name": "7. Çini Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/98/58/51/ic-ve-dis-gorunum.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/LJeyqTHeVF9vSr67A"
+        },
+        {
+          "name": "8. Hayme Ana Turbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/20/76/c7/carsambakoyudomanic.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/K4knnJvtDvueMTtA8"
+        },
+        {
+          "name": "9. Germiyan Sokağı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/70/b4/af/germiyan-sokagi-kutahya.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Donenler Mevlevihanesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/56/f8/e5/mevlevi-tekkesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/WhchwZRrCjJvhdUr8"
+        }
+      ]
+    },
+    {
+      "name": "Afyonkarahisar",
+      "places": [
+        {
+          "name": "1. Karahisar Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/65/ae/30/karahisar-kalesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/HQtnSD1WxetoM18x7"
+        },
+        {
+          "name": "2. Ulu Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/46/03/6a/afyon-ulu-camiiden-kale.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Afium Outlet ve Eğlence Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d9/1d/7f/afium-outlet-ve-eglence.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/PJoe65i8KSqSmP58A"
+        },
+        {
+          "name": "4. Afyon Mevlevihanesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6d/d6/1a/photo3jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/vGa9EV9U7TSatZgw5"
+        },
+        {
+          "name": "5. Frig Vadisi Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/af/4a/6a/frig-vadisi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/n1CAxPsczWrKcz83A"
+        },
+        {
+          "name": "6. Imaret Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/88/d9/8d/1imaret-camii.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/9nRrWAz7ykf1icGf7"
+        },
+        {
+          "name": "7. Park Afyon AVM",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/3f/4d/93/park-afyon-avm.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/eSMFnJPQMoRy9EZG6"
+        },
+        {
+          "name": "8. Başkomutan Tarihi Milli Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/c3/d4/f3/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/AFT3XVV6vkYfCXQx9"
+        },
+        {
+          "name": "9. Afyonkarahisar Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/50/5e/77/cikilamaz-kale.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/HQtnSD1WxetoM18x7"
+        },
+        {
+          "name": "10. Afyonkarahisar Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/07/66/bd/disaridan-afyonkarahisar.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/kS6hg9qq255ZkPHKA"
+        }
+      ]
+    },
+    {
+      "name": "Denizli",
+      "places": [
+        {
+          "name": "1. Hierapolis Arkeoloji Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/14/a7/47/photo2jpg.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Laodicea",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/46/93/83/20190128-125100-largejpg.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Karahayit",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/76/96/28/karahayit.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "4. Honaz Dağı Milli Parkı Yolu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/5b/ad/29/honaz-goz-national-park.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Keloğlan Mağarası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b2/c3/c3/keloglan-magarasi.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Tripolis Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/ab/40/88/tripolis-antik-kenti.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "7. İnceğiz Kanyonu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/5a/d1/a4/incegiz-kanyonu-kivrimlari.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Forum Çamlık",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/38/5c/f0/forum-camlik.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "9. Pamukkale Şarapları",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d3/50/e3/pamukkale-saraplari.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Denizli Kayak Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/10/4a/4f/gunluk.jpg?w=500&h=400&s=1",
+          "map": ""
+        }
+      ]
+    },
+    {
+      "name": "Muğla",
+      "places": [
+        {
+          "name": "1. Stratonikeia Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/24/4d/b8/general-view-of-the-gymnasium.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/RnNGwCniu5gnE5Ck7"
+        },
+        {
+          "name": "2. Akbük Koyu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5b/fe/7f/akbuk-koyu.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/S9W2C7NrdH7VnB9v8"
+        },
+        {
+          "name": "3. Labranda Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/62/d3/a2/the-mountains.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/iFCZVjHLyu4bnRfp8"
+        },
+        {
+          "name": "4. Toparlar Şelalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/58/15/b1/doga-harikasi-bir-selale.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Karia Yolu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/4a/a7/d9/carian-trail.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Belcekız Plajı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/dc/61/c4/photo1jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/BL8xfZFLm9NEYzgd8"
+        },
+        {
+          "name": "7. Amintas Kaya Mezarları",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/09/76/81/caption.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/N9HPGD7o8qoZAhV18"
+        },
+        {
+          "name": "8. Muğla Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/65/24/fd/mugla-museum.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/wSp9f1asNWb6wbc26"
+        },
+        {
+          "name": "9. Dibekli Han Kültür ve Sanat",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9a/28/27/dibekli-han-cafe-bolumu.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/bzCmVACNUvDPPecm6"
+        },
+        {
+          "name": "10. Kazıklı Koyu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/de/64/7d/20160809-160718-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ijxDXHnpyASKMDYb7"
+        }
+      ]
+    },
+    {
+      "name": "Adıyaman",
+      "places": [
+        {
+          "name": "1. Nemrut Dağı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/88/7a/a5/mount-nemrut.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/5j2PfXDgxHhMGY486"
+        },
+        {
+          "name": "2. Cendere Köprüsü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/61/45/dd/cendere-koprusu.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Pirin Ören Yeri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/87/b7/a7/img-20190513-080414-largejpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/EtgTVQrGpY4Ne9a86"
+        },
+        {
+          "name": "4. Saffan Bin Muattal Turbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/b9/12/ac/sahabe.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Su Gözü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/b9/1b/9e/huzur.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/FPniCoPoA1CvV7Gh6"
+        },
+        {
+          "name": "6. Gölbaşı Gölleri Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/cf/3b/a6/mukemmel-bir-doga.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/L443cUkz2pboChp7A"
+        },
+        {
+          "name": "7. Sofraz Ören Yeri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e8/27/ca/oculous-to-baths.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/Y7XgHQdrpL6SQNGSA"
+        },
+        {
+          "name": "8. Abuzer Gaffari Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/33/c5/68/abuzer-gaffari-turbesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/BLTB6Grd65Eww6pc9"
+        },
+        {
+          "name": "9. Adıyaman Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/daodao/photo-s/07/8e/b8/48/adiyaman-museum.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/a1c7B7jWQPhKLU6z7"
+        },
+        {
+          "name": "10. Zeynel Abidin Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/2e/ac/79/zeynel-abidin-turbesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/SZmg4fZjoetq5TuR9"
+        }
+      ]
+    },
+    {
+      "name": "Siirt",
+      "places": [
+        {
+          "name": "1. Veysel Karani Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/8d/7d/e2/veysel-karani-turbesi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Delikli Tas",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e3/2b/be/turkiye-nin-buyuleyici.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Tillo Kalesi Cam Seyir Terası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/1e/68/99/baraj.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "4. Hz. Veysel Karani Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/dd/81/8e/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/UobHC3sk5Ma5TKJK9"
+        },
+        {
+          "name": "5. Çarpıran Köprüsü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/2f/8a/2a/uzak.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Saat Kulesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/34/c9/2e/ilginc.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ZCesDKC7mCRd4X7X6"
+        },
+        {
+          "name": "7. Nur Kilimcilik",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/2a/2b/e9/isleme.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Siirt Ulu Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/0c/8d/a4/avize.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/MzntaSBiihNphq5d9"
+        }
+      ]
+    },
+    {
+      "name": "Batman",
+      "places": [
+        {
+          "name": "1. Hasankeyf",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e9/21/8e/screenshot-2017-10-08.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Batman Park AVM",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a6/7b/7b/batman-park-avm.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/TukUc5q88ktvFsEg9"
+        },
+        {
+          "name": "3. Malabadi Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e0/39/fa/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/hk3gNGFCMx7GL6eZA"
+        },
+        {
+          "name": "7. Dr. Uk Medikal Estetik",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/77/97/ab/dr-uk-medikal-estetik.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/wQEGQAgxr5nfLVVAA"
+        },
+        {
+          "name": "10. Yılmaz Güney Sineması",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/b2/d6/fb/yilmaz-guney-sinemasi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/UUzpmanf52UBECT16"
+        }
+      ]
+    },
+    {
+      "name": "Diyarbakır",
+      "places": [
+        {
+          "name": "1. Ulu Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/90/53/43/dis-gorunus.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/rxQK6GeiQsCuEncA7"
+        },
+        {
+          "name": "2. Diyarbakır Surları",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/9c/4e/4f/diyarbakir-surlari.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/AyiD9Uwdwri9dC2p7"
+        },
+        {
+          "name": "3. Hasankeyf Eski Köprü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ee/a9/2a/siedlungsgebiet-im-werden.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/vuJ5v4CHzYf2S53C7"
+        },
+        {
+          "name": "4. Suluklu Han",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4a/86/51/photo0jpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/jCrRVbmKCyDjh5jk6"
+        },
+        {
+          "name": "5. Keçi Burcu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/35/04/a5/goat-tower.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/k87VjjrzXHchZFxw6"
+        },
+        {
+          "name": "6. Surp Giragos Kilisesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/35/29/9f/st-giragos-armenian-church.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/pa2PmRUiZ3ESZ44w8"
+        },
+        {
+          "name": "7. Dört Ayaklı Minare",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/74/ab/7a/dort-ayakli-minare.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Dicle Nehri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/18/6d/94/dicle-nehri.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/6g8AkjmESce3aNLC9"
+        },
+        {
+          "name": "9. On Gözlü Köprü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/25/b0/72/mukemmel-bir-mimari-saheser.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/pt2b3GCiFJz8dgT77"
+        },
+        {
+          "name": "10. Hasan Paşa Hanı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/19/7d/3f/20190607-122059-largejpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/SUymbGzef9G53XLk7"
+        }
+      ]
+    },
+    {
+      "name": "Gaziantep",
+      "places": [
+        {
+          "name": "1. Zeugma Mozaik Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ce/99/97/ana-giris.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Rumkale",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/14/69/75/rum-kale.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/cf3nR2eLdw1RqFz26"
+        },
+        {
+          "name": "3. Elmacı Pazarı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/62/c4/0b/photo2jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/dLLtxgoRcGjan7WN7"
+        },
+        {
+          "name": "4. Gaziantep Oyun ve Oyuncak Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1f/85/d1/gaziantep-oyuncak-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/Mq1KQFHWHNCpByKR8"
+        },
+        {
+          "name": "5. Gaziantep Hayvanat Bahçesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f0/fc/f4/hayvanat-bahcesi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Gaziantep Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/84/ac/89/photo1jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/GVWaj3if5S9EcV4u9"
+        },
+        {
+          "name": "7. Gaziantep Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/3b/05/df/gaziantep-mozakik-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/EC3HdRCjxBcKZga38"
+        },
+        {
+          "name": "8. Dulukbaba Tabiat Parki",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ae/26/49/antepte-muhakkak-gidilmesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/BSzJZCVg3PHk4Wot8"
+        },
+        {
+          "name": "9. Emine Göğüş Mutfak Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/58/06/ab/emine-gogus-mutfak-muzesi.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Gaziantep Arkeoloji Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/b4/0f/bf/gaziantep-arkeoloji-muzesi.jpg?w=500&h=400&s=1",
+          "map": ""
+        }
+      ]
+    },
+    {
+      "name": "Şırnak",
+      "places": [
+        {
+          "name": "1. Mağara Köyü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/6f/4f/86/photo9jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/NP6vjRebYfmhkLoU6"
+        },
+        {
+          "name": "2. Meryemana Süryani Kilisesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/6f/4b/ca/photo4jpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/78pqkJddiZQ2qYBp7"
+        },
+        {
+          "name": "3. İsmail Ebul-İz El Cezeri Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/62/c4/0b/photo2jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/TJkZ2U4fcNk2pbGR6"
+        }
+      ]
+    },
+    {
+      "name": "Mardin",
+      "places": [
+        {
+          "name": "1. Dara Mezopotamya Harabeleri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/b1/e1/c6/img-20181212-080908-largejpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/fPDxzD61Bj8Rf8yG6"
+        },
+        {
+          "name": "2. Mardin Ulu Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/62/7c/8d/filename-100-1855-jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/T1ivPGPyVe9Cyy476"
+        },
+        {
+          "name": "3. Zinciriye Medresesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/e8/70/42/zinciriye-medresesi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "4. Kasımiye Medresesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/69/2a/d0/kasimiye-medresesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/jcd8cMq6ryEd7xcx7"
+        },
+        {
+          "name": "5. Mardin Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e5/7b/96/muze-teras-3.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/XatcDd6LyCa31nUaA"
+        },
+        {
+          "name": "6. Kana Cafe Shop",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/86/3a/49/kana.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/sm2AVvFp7hNZ8H587"
+        },
+        {
+          "name": "7. Kırklar Kilisesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/8b/3f/3f/kilise.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/gBfXSCyBVkdfBp549"
+        },
+        {
+          "name": "8. Sabancı Şehir Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/83/a6/7d/mardin-sabanci-muzesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/VL8ai9fx64dNa8KH7"
+        },
+        {
+          "name": "9. Mardin Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e5/7f/0e/buyuk-mardin-otelin-terasdan.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/aA88NrJo5Wu12gA98"
+        },
+        {
+          "name": "10. Latifiye Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/0b/56/73/latifiye-camisi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/xnJUHncYu5iZbmAW6"
+        }
+      ]
+    },
+    {
+      "name": "Şanlıurfa",
+      "places": [
+        {
+          "name": "1. Göbekli Tepe",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/2b/f8/f2/findings-2.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Js9WREDeC7J7NxKU8"
+        },
+        {
+          "name": "2. Balıklıgöl",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a6/18/69/photo3jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/gYheJMH13zG81oup9"
+        },
+        {
+          "name": "3. Sanliurfa Archeology and Mosaic Museum",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/87/c5/a7/sanliurfa-archeology.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/vCMcYwrzANHfUfhH9"
+        },
+        {
+          "name": "4. Hz. İbrahim Mağarası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/34/e5/0a/cave-of-abraham.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Gümrük Hanı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/8b/11/6e/gumruk-hani.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/cKmN9gkLo9CL5hdN6"
+        },
+        {
+          "name": "6. Şanlıurfa Arkeoloji ve Mozaik Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d7/33/79/10-sanliurfa-arkeoloji.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/vCMcYwrzANHfUfhH9"
+        },
+        {
+          "name": "7. Halil-ür Rahman Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a6/c6/50/photo2jpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/sYyb8prcyCN72pLHA"
+        },
+        {
+          "name": "8. Rizvaniye Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a6/33/b6/photo4jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/DSkqfJiG8UtdsRPU9"
+        },
+        {
+          "name": "9. Karahantepe",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b0/03/fe/karahantepe.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Şanlıurfa Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/84/d0/68/photo0jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/VNTUUohvp8K5GNo18"
+        }
+      ]
+    },
+    {
+      "name": "kilis",
+      "places": [
+        {
+          "name": "1. Ravanda Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a6/72/08/ravanda-kalesi.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Oylum Höyük",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/06/30/e0/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Ulu Cami",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e0/9b/40/5-ulu-cami.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/YrMdCNeawKDexVwy6"
+        },
+        {
+          "name": "4. Şeyh Mansur Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/06/2d/8b/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Şeyh Muhammed Bedevi Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/06/0d/b4/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/am3WU2832knwswA29"
+        },
+        {
+          "name": "6. Hisar Çamlığı Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/78/f7/getlstd-property-photo.jpg?w=300&h=200&s=1",
+          "map": "https://maps.app.goo.gl/HGZVPE5hP3YhQgUp8"
+        },
+        {
+          "name": "7. Pirlioglu Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/ea/aa/53/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/z46R8hFiAA3hgqbt6"
+        },
+        {
+          "name": "8. Salih Efendi Sokak",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e0/97/1c/salih-efendi-sokak.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/8uRMPAzvPN5Dqv3t5"
+        },
+        {
+          "name": "9. Ruhizade Konağı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/06/2b/0c/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Talha Zübeyr Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/06/2e/4d/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": ""
+        }
+      ]
+    },
+    {
+      "name": "Ankara",
+      "places": [
+        {
+          "name": "1. Anıtkabir",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/de/7f/d5/anitkabir.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/Z9w6fknVGNkjGX6fA"
+        },
+        {
+          "name": "2. Anadolu Medeniyetleri Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/40/ac/f5/anatolian-civilizations.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/nbjv2MUmRTR6YZpW6"
+        },
+        {
+          "name": "3. Rahmi M. Koç Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/c3/7e/f6/cengelhan-rahmi-m-koc.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/BPwcqfBAZ2yxEHw37"
+        },
+        {
+          "name": "4. Kocatepe Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/48/d0/e4/cami-ici.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/SWzYuFVjcw4DPE2J8"
+        },
+        {
+          "name": "5. Hacı Bayram Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ea/94/9b/haci-bayram-camii.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/DKES5f8wZ9euaXGZ9"
+        },
+        {
+          "name": "6. Ankara Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/58/eb/a3/caption.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Mwy2iRrCQZ9SB7Y76"
+        },
+        {
+          "name": "7. 1. TBMM Kurtuluş Savaşı Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/29/18/08/20181026-130848-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/iJjkB6A1QdsmYRXy7"
+        },
+        {
+          "name": "8. Ankara Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/62/bd/4b/ankara-kalesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Mwy2iRrCQZ9SB7Y76"
+        },
+        {
+          "name": "9. Hamamönü- Altındağ",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/35/4b/47/img-0114-2-largejpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/GEJppHA6QvhH5UgB6"
+        },
+        {
+          "name": "10. Ulucanlar Cezaevi Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/77/c6/17/ulucanlar-cezaevi-muzesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/JSQULNKsWS9vFvFz7"
+        }
+      ]
+    },
+    {
+      "name": "Konya",
+      "places": [
+        {
+          "name": "1. Mevlana Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/36/41/58/mevlana-muzesi.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Konya Tropikal Kelebek Bahçesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e3/23/7c/konya-tropikal-kelebek.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/63z3uy2qRhBjADSz9"
+        },
+        {
+          "name": "3. Sille Köyü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/47/b3/e7/genel-gorunum.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "4. Aziziye Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ad/bf/2f/caption.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/6DTmUP6mADP3zRUj9"
+        },
+        {
+          "name": "5. Konya Bilim Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/9a/26/6e/konya-bilim-merkezi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/JJ6GkhXZC27yoYWQ9"
+        },
+        {
+          "name": "6. Şems-i Tebrizi Türbesi ve Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/4b/1f/64/sems-i-tebrizi-tomb-mosque.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/xu6E7QY7vvTwXEYUA"
+        },
+        {
+          "name": "7. Eşrefoğlu Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1b/b8/56/esrefoglu-camisi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/56Wo681sryeb2PH6A"
+        },
+        {
+          "name": "8. İnce Minare Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/87/e1/d7/caption.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/2H964NQqEbeJDvVX8"
+        },
+        {
+          "name": "9. Selimiye Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ce/d6/67/selimiye-mosque.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/tPqwL4PjGaiBGs3j7"
+        },
+        {
+          "name": "10. Konyanüma Panorama",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/d0/ab/f6/konyanuma-panorama.jpg?w=500&h=-1&s=1",
+          "map": ""
+        }
+      ]
+    },
+    {
+      "name": "Kayseri",
+      "places": [
+        {
+          "name": "1. Erciyes Dağı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/8a/b3/cf/kayseri-erciyes-dagi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/zgAGhEs2HrLTVVzz9"
+        },
+        {
+          "name": "2. Soğanlı Vadisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/f8/51/70/fuori-dal-mondo.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/1aMUbc7VaJ5WGRzL9"
+        },
+        {
+          "name": "3. Hunat Hatun Külliyesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/b8/b8/tam-anlamiyla-bir-selcuklu.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/FUEaGN14pKWF1xVh8"
+        },
+        {
+          "name": "4. Gevher Nesibe Hastahanesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/26/0e/28/gevher-nesibe-sifahanesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/8YCTCHMVjBxucTwV7"
+        },
+        {
+          "name": "5. Erciyes Kayak Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/fe/ac/ed/erciyes-kayak-merkezi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/D6DjahHH3wx6hpxMA"
+        },
+        {
+          "name": "6. Forum Kayseri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/20/da/a6/forum-kayseri.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/WwoTDtzUiRp7qRQw6"
+        },
+        {
+          "name": "7. Seyyid Burhaneddin Hz. Turbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b6/37/56/photo0jpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/pmwfaUg9ts4DdRWv7"
+        },
+        {
+          "name": "8. Cami Kebir (Ulu Cami)",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/de/01/32/caption.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/5bTdt7fXLFaHm3Zs6"
+        },
+        {
+          "name": "9. Selçuklu Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/4b/eb/95/museum-of-seljuk-civilisation.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/Pu3aamHzFxHeXB6e9"
+        },
+        {
+          "name": "10. Arkeoloji Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/cd/e0/0d/mazaka-kayseri-tarihinde.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/rLdHjYB8D8a7svGNA"
+        }
+      ]
+    },
+    {
+      "name": "Aksaray",
+      "places": [
+        {
+          "name": "1. Hasan Dağı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/a1/a4/37/hasan-dagi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/FGuCnKvk4fSquxcj9"
+        },
+        {
+          "name": "2. Saratli Kirkgöz",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/21/d6/dd/saratli-kirkgoz.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/7VjRSsa9PquZkyic8"
+        },
+        {
+          "name": "3. Aksaray Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/52/a1/48/bence-aksaraya-geldiyseniz.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/qCHzbe5VniyJnnQ79"
+        },
+        {
+          "name": "4. Karamanoglu Ulu Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/0b/22/ff/karamanoglu-ulu-camii.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/WGEBFiEJYPKZzrh57"
+        },
+        {
+          "name": "5. Somuncu Baba Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/5d/be/a2/somuncu-baba-turbesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/F8B3mzQtg4SfgCxr7"
+        },
+        {
+          "name": "6. NoraCity AVM",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3c/1a/2a/20190125-160258-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/VJfKifvNFmtCivgaA"
+        },
+        {
+          "name": "7. Asikli Hoyuk",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/54/47/8b/asikli-hoyuk.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/MDhzQH8mm7G9xU3y7"
+        },
+        {
+          "name": "8. Somuncu Baba Minyatür Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/69/51/d4/somuncu-baba-nin-hayatini.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/sq8KTpYLrxjamXMJ6"
+        },
+        {
+          "name": "9. Eğri Minare (Kızıl Minare)",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/68/de/72/egri-kizil-minare.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/UqqknH4RdfCXSo6Y7"
+        },
+        {
+          "name": "10. Aksaray Bilim ve Sanat Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/bc/e1/84/caption.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/nMsJqYt5e66QJHjA8"
+        }
+      ]
+    },
+    {
+      "name": "Nevşehir",
+      "places": [
+        {
+          "name": "1. Zelve Açık Hava Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/08/17/e2/zelve-open-air-museum.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/5JPqJNr83qkCUeEm8"
+        },
+        {
+          "name": "2. Kızıl Vadi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/3f/80/f1/red-valley.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Kaymaklı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/bf/9d/7d/kaymakli.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/EftyjakpRKVV1G6i8"
+        },
+        {
+          "name": "4. Özkonak Yeraltı Şehri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e9/a5/1a/small-passageways-between.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/4SP5j3M55kAcbFhU8"
+        },
+        {
+          "name": "5. Hacı Bektaş Veli Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/bf/6c/cd/haci-bektas-veli-muzesi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Hacıbektaş",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ab/c9/fa/haci-bektas-nevsehir.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ZdfHeLhdZ5XJ1fvS9"
+        },
+        {
+          "name": "7. Saruhan Kültür ve Kongre Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/cb/4d/d8/caption.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/XYKdBDSbKKwgKcYf8"
+        },
+        {
+          "name": "8. Turasan Şarapçılık",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/52/e6/22/turasan-sarapcilik.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/TsydLhXANZjpwT158"
+        },
+        {
+          "name": "9. Nevşehir Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/42/76/f5/the-entrance.jpg?w=400&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/gzS5ZKaU8L51qPwx7"
+        }
+      ]
+    },
+    {
+      "name": "Karaman",
+      "places": [
+        {
+          "name": "1. Karaman Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/92/56/e4/karaman-muzesinde-heykeller.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. incesu Magarasi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/72/e6/78/incesu-magarasi-karaman.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Manazan Caves",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8a/d0/fe/manazan-magaralari-karaman.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "4. Taşkale Tahıl Ambarları",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/56/fd/c3/cok-guzel-harika-fotograflar.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Bin Bir Kilise",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/3a/06/fc/screenshot-20181102-141025.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Aktekke Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/88/78/19/aktekke-camii.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "7. Tartan evi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/8f/48/23/yaz-gununde-tartan-evi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Karaman Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/2e/69/58/karaman-kalesi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Karaman Tanıtım Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/db/23/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": ""
+        }
+      ]
+    },
+    {
+      "name": "Eskişehir",
+      "places": [
+        {
+          "name": "1. Sazova Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/eb/b7/5f/sazova-parki.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/e3cLJoNmHUJi2hYN6"
+        },
+        {
+          "name": "2. Yılmaz Büyükerşen Balmumu Heykeller Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/34/4b/a0/photo1jpg.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Eskişehir Bilim Sanat ve Kültür Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/63/d1/89/eskisehir-bilim-sanat.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "4. Kent Park",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e9/bc/54/photo4jpg.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Odunpazarı Evleri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/45/85/15/fotograf-bana-aile-olmasa.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Çağdaş Cam Sanatları Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4b/e3/50/cagdas-cam-sanatlari.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Nx1aHEWDTfavUXHeA"
+        },
+        {
+          "name": "7. Akvaryum Dunyasi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f6/f0/e1/img-20180802-172550-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/QdrRPvDM3iiwQwtd7"
+        },
+        {
+          "name": "8. Midas Anıtı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5b/64/91/yazilikaya.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "9. Oda Art Gallery",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/69/f7/b9/oda-art-galeri-sergi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/24JTrVpgatzr63p57"
+        },
+        {
+          "name": "10. Kursunlu Camisi Ve Kulliyesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/44/0d/81/distan-gorunus.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/71HCMFgaaUqUmMrp8"
+        }
+      ]
+    },
+    {
+      "name": "Niğde",
+      "places": [
+        {
+          "name": "1. Narlıgöl Krater Gölü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d0/52/f5/20190605-134239-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/WPdkrtHGRXdwF4V38"
+        },
+        {
+          "name": "2. Gümüşler Manastırı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/91/da/ab/1-gumusler-manastiri.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Eski Gümüşler Manastırı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/ed/61/c8/eski-gumusler-monastery.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/zFrBUdNAMF2FZZci6"
+        },
+        {
+          "name": "4. Niğde Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/95/56/49/nigde-museum.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/iVfqVLLrSHQzuA5i8"
+        },
+        {
+          "name": "5. Tyana Su Kemerleri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/72/5a/b0/tyana-su-kemerleri.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/41iXg2ENvh6enDRT7"
+        },
+        {
+          "name": "6. Kayaardi Baglari",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/dc/a1/79/kayaardi-baglari.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Nvwyzvr45za3GRrG6"
+        },
+        {
+          "name": "7. Nigde Askeri Şehitliği",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/9a/d9/e6/turkiye-nin-cengaverleri.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/5rrmPqaSrWeLjPSq6"
+        },
+        {
+          "name": "8. Alâeddin Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/cf/dd/7b/alaeddin-camii-disaridan.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/e4zSdqSMcqRoYkqD9"
+        },
+        {
+          "name": "9. Niğde Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/cf/d0/45/nigde-kalesi-surlari.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/e4zSdqSMcqRoYkqD9"
+        },
+        {
+          "name": "10. Ak Medrese",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e6/b0/c5/ak-medrese.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/7Zr7QXtrLfDwWCat7"
+        }
+      ]
+    },
+    {
+      "name": "Yozgat",
+      "places": [
+        {
+          "name": "1. Yozgat Çamlığı Milli Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/20/16/dd/1-camlik-milli-parki.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/yjSoVZ4Ym4o1QGts5"
+        },
+        {
+          "name": "2. Yozgat Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/bd/a6/95/photo1jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/kWnsGE749apZNxQh8"
+        },
+        {
+          "name": "3. Kazankaya Kanyonu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/d4/9e/8f/kazankaya-ekleyen-ferhat.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "4. Çapanoğlu Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/51/83/7c/caption.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Yozgat Saat Kulesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/99/27/a1/yozgat-saat-kulesi-gunduz.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Hayri İnal Konağı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/37/73/55/img-20190912-133607-largejpg.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "7. Kadıpınarı Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/8f/06/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Oluközü Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e2/af/76/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/MTfjyDfXRzZaKg2S6"
+        },
+        {
+          "name": "9. Davulbaztepe Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/1f/06/5e/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/p1UMTAeHHSZt7JREA"
+        }
+      ]
+    },
+    {
+      "name": "Sivas",
+      "places": [
+        {
+          "name": "1. Gökpınar Gölü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/96/5c/b5/gokpinar-golu-ve-renkler.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Gök Medresesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/f3/04/04/gok-medresesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/yWR1hHosvpnsWyEq8"
+        },
+        {
+          "name": "3. Çifte Minareli Medrese",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ee/ae/dc/tas-isciligi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/xFumnrC9uzf72V6ZA"
+        },
+        {
+          "name": "4. Sivas Ulu Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/89/8a/c1/sivas-ulu-cami-giris.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/wKvyLaBkJNzJTidY6"
+        },
+        {
+          "name": "5. Atatürk Kongre ve Etnografya Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/36/6a/a6/ataturk-congress-ethnography.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/w6B5czzJmYjRn4BB9"
+        },
+        {
+          "name": "6. Bürüciye Medresesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/bf/e7/5d/buruciye-medresesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ZoSnaVHpWJBRJJxo8"
+        },
+        {
+          "name": "7. Sifaiye Medresesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/0f/7a/99/sifaiye-medresesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/y86kVg1oVQEzEKER9"
+        },
+        {
+          "name": "8. Atatürk Kongre ve Etnografya Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/70/f3/5b/caption.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/w6B5czzJmYjRn4BB9"
+        },
+        {
+          "name": "9. Şuğul Vadisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d6/3b/46/sugul-vadisi-26.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/4mVqJCTDAdGmUh8MA"
+        },
+        {
+          "name": "10. Sıcak Çermik Kaplıcası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/39/47/98/sicak-cermik-kaplicasi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/sw8gaLEE5k7kxWWo6"
+        }
+      ]
+    },
+    {
+      "name": "Çankırı",
+      "places": [
+        {
+          "name": "1. Hazım Dağlı Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b6/e0/2d/caption.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/y5N1Lb3ojmUacLU38"
+        },
+        {
+          "name": "2. Tuz Magarasi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ea/fb/95/images-1-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/zUHpd86CAwP8mMLX8"
+        },
+        {
+          "name": "3. Çankırı Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/27/c3/5e/photo5jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/8nHRBSmhEfTxXLxT9"
+        },
+        {
+          "name": "4. Kırkpınar Yaylası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/1a/b8/d2/kirkpinar-yaylasi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/KwjS1jTaj38mXkiU7"
+        },
+        {
+          "name": "5. Bayramören Köprüsü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ea/f8/81/images-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/XdUWoJnrFmW3FJdD6"
+        },
+        {
+          "name": "6. Tarihi Çamaşırhane Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/74/59/e4/39.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/iRbG8KXymxSXZqbS6"
+        },
+        {
+          "name": "7. Kadınçayırı Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/8b/eb/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/hUtqzzeKJTnaJDuC7"
+        },
+        {
+          "name": "8. Yunus Alışveriş Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/da/df/23/photo0jpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/JDCLZFzRVGk23MySA"
+        },
+        {
+          "name": "9. Buğday Pazarı Cami Ve Medresesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b7/cb/67/sofi-medresesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/4TUho9ANvFBLWY6y5"
+        },
+        {
+          "name": "10. Tas Mescit",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6a/e0/a1/43.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/GwwtzqUJQhMLDphK8"
+        }
+      ]
+    },
+    {
+      "name": "Kırıkkale",
+      "places": [
+        {
+          "name": "1. Çeşnigir Köprüsü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/65/cc/8e/cesnigir-koprusu-kirikkale.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/vjqddAxuXC9Uk7336"
+        },
+        {
+          "name": "2. Nur Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/38/83/ad/isiklandirma-odulu-alan.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/jhcuZMubf8d86CPy7"
+        },
+        {
+          "name": "3. Celal Bayar Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/4e/f3/d4/aksam-alacakaranlikta.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "4. Karaahmetli Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/6a/1f/95/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/hZUZdcRDJyHBbGvn9"
+        },
+        {
+          "name": "5. Hasandede Camii ve Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/2d/4a/9c/hasandede-camii-ve-turbesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ty7bnAqTbxA9AGcXA"
+        },
+        {
+          "name": "6. Kırıkkale Şehitler Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/bc/d0/1f/kirikkale-sehitler-parki.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "7. Büyük Şehir Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/de/70/7a/sehir-parki.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/zuAYj4DrAWz5kaGa7"
+        },
+        {
+          "name": "8. Makro Sineması",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/61/51/7c/makro-sinema-program.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ErMAbwcjTsqDfTWF7"
+        },
+        {
+          "name": "9. Hocaoğlu Erzak Pazarı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/e1/5d/e7/caption.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/9AqLYJoce4bEkNGy5"
+        }
+      ]
+    },
+    {
+      "name": "Kırşehir",
+      "places": [
+        {
+          "name": "1. Cacabey Medresesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/79/cb/a2/caca-bey-medresesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/XtNAbRCHWg8gkz7CA"
+        },
+        {
+          "name": "2. Japon Bahcesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/81/d8/05/photo0jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/fJJ1Xwpz88DZcPu57"
+        },
+        {
+          "name": "3. Kaman Kalehoyuk Arkeoloji Muzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/d5/a7/35/japanese-garden.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/gUcLAisT799Pb6yU8"
+        },
+        {
+          "name": "4. Ahi Evran Kulliyesi ve Cami",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/28/b1/e6/cami-avlu.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/1SoQAbsxpDtso8AMA"
+        },
+        {
+          "name": "5. Cacabey Cami",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/22/9a/c7/20190117-162004-largejpg.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Neşet Ertaş Kültür Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/4d/f8/bb/n.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/D4cdYWrS19nEwP8c8"
+        },
+        {
+          "name": "7. Aşıkpaşa Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/db/cb/ff/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "9. Kırşehir kent park",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e9/5a/e9/kirsehir-kent-park.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/uQJtyu94xzMSYv1u7"
+        }
+      ]
+    },
+    {
+      "name": "Samsun",
+      "places": [
+        {
+          "name": "1. Bandırma Vapuru Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/24/34/19/photo1jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/jSSw5WzV9MQTPDcc8"
+        },
+        {
+          "name": "2. şahinkaya kanyonu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f6/70/51/sahinkaya-kanyonu.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Onur Anıtı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ea/13/fc/statue-of-ataturk-in.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/hBBTgdjL2VXHmVWZ8"
+        },
+        {
+          "name": "4. Samsun Amazon Heykeli",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/65/66/51/amazon-heykeli.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/CEwyXrTBSNwjQVcZ8"
+        },
+        {
+          "name": "5. Gazi Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4e/d3/ad/img-20190427-105751-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/XuPGKWbP7MSQvdjG8"
+        },
+        {
+          "name": "6. Atakum Sahili",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/66/cb/be/atakum-sahili.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "7. Piazza",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/b2/d7/84/piazza.jpg?w=400&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/55psD1CMzWvMKv1D8"
+        },
+        {
+          "name": "8. Amisos Mezarları",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/15/c6/a4/amisos-tepesi.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "9. Kus Cenneti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/5f/c4/71/kus-cenneti.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Samsun Kent Muzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/5a/65/a6/samsun-kent-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/54TZvAZ7XaZL5cPS8"
+        }
+      ]
+    },
+    {
+      "name": "Trabzon",
+      "places": [
+        {
+          "name": "1. Sümela Manastırı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/e8/10/d3/sumela-manastiri.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/uhBUBdHGBw3SBj886"
+        },
+        {
+          "name": "2. Atatürk Köşkü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/43/a9/ed/trabzon-ataturk-kosku.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/CnuCtzwAjgvoWAp59"
+        },
+        {
+          "name": "3. Trabzon Ayasofya Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/43/b3/dc/trabzon-ayasofya-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/kjwTwPbZpfN8cJu97"
+        },
+        {
+          "name": "4. Boztepe",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/78/79/1a/boztepe.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/7bCSCXADrRn12tZX7"
+        },
+        {
+          "name": "5. Forum Trabzon",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/4f/9d/20/forum-trabzon.jpg?w=400&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/7rUEfNWScB4FNEQPA"
+        },
+        {
+          "name": "6. Altındere Vadisi Milli Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/cd/17/21/altindere-vadisi-milli.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/KKd7hZDNaqVtujbC9"
+        },
+        {
+          "name": "7. Gülbahar Hatun Cami",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/9e/77/f2/gulbahar-hatun-cami.jpg?w=300&h=300&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Zağnos Vadisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/6a/58/d7/zagnos-vadisi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/ti37uFNW6x31oMbq9"
+        },
+        {
+          "name": "9. Gülbahar Hatun Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/04/ce/31/gulbahar-hatun-cami-ve.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Ortahisar",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/04/d3/69/zagnospasa-vadisi-ve.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/QFmBMGPUYWbtbtKG6"
+        }
+      ]
+    },
+    {
+      "name": "Rize",
+      "places": [
+        {
+          "name": "1. Firtina Deresi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/e5/e0/a5/firtina-deresi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Ziraat - Botanik Çay Bahçesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/00/8c/0b/photo0jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/5UMBWv7QMeo9T6CP7"
+        },
+        {
+          "name": "3. Gelin Tülü Şelalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/0a/26/e9/gelin-tulu-selalesini.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Q2LAHBzhm5z7XvVTA"
+        },
+        {
+          "name": "4. Rize Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/49/e9/33/img-20190425-123402-largejpg.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Atatürk Evi ve Etnografya Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/0a/02/16/bahceden.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Handüzü Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/aa/4b/25/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/hPBQt3y7AufWvUeV7"
+        },
+        {
+          "name": "7. Gito Yaylası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/b3/91/e2/gito-yaylasi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Kıbledağı Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/53/23/4c/photo3jpg.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "9. Hemşin Organik Vadisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/6f/95/7c/cat-vadisi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Kaçkar Dağları Milli Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/7e/a3/a0/kackar-daglari-milli.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/mUzJnsgqvM8jNBVA8"
+        }
+      ]
+    },
+    {
+      "name": "Ordu",
+      "places": [
+        {
+          "name": "1. Boztepe",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/8c/b1/84/photo2jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/yQNxG5vqX8p1hhLW8"
+        },
+        {
+          "name": "2. Ordu Teleferik",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/21/5c/0e/photo0jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/mu9xVismowoT2Y6m8"
+        },
+        {
+          "name": "3. Yason Kilisesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/6a/bb/c0/yason-kilisesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/g5ZNGdV4Dv8EoWqq6"
+        },
+        {
+          "name": "4. Perşembe Yaylası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/89/83/b5/persembe-yaylasi-aybasti.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Yason Burnu Feneri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/a3/96/e6/yason-burnu-feneri.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/LZ6Fg127QymbaJJm9"
+        },
+        {
+          "name": "6. Paşaoğlu Konağı ve Etnografya Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e3/33/ed/ordu-sahil-ve-sonbahar.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/hhF8w58DkR8L9XuNA"
+        },
+        {
+          "name": "7. Ulugöl Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/29/d6/35/ulugol-tabiat-parki.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Ordu Yoroz",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c6/ca/71/cok-guzel.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/QRhH9s8iPY7ipQkS9"
+        },
+        {
+          "name": "9. Kurul Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/6a/bf/1a/kurul-kalesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/wCNnvRAGZKYyv4AD6"
+        },
+        {
+          "name": "10. Ulugöl Yaylası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cf/eb/92/ulugol-yaylasi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Yz4VKsAgbW3us9w7A"
+        }
+      ]
+    },
+    {
+      "name": "Giresun",
+      "places": [
+        {
+          "name": "1. Giresun Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/57/0c/24/20160802-152359-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/8azrNFHR3H81SxEz9"
+        },
+        {
+          "name": "2. Kümbet Yaylasi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/1a/2c/c1/kumbet-yaylasi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ThQzrbXLeN4MKwLo8"
+        },
+        {
+          "name": "3. Kulakkaya Yaylasi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/bb/26/ad/harika-kacirmayin.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/HYdbDKo65kVFAEkn9"
+        },
+        {
+          "name": "4. Kuzalan Şelalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/a4/63/ce/kuzalan-selalesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/7T2Byhde4vyQM7SP9"
+        },
+        {
+          "name": "5. Mavi Gol",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/9b/41/71/mavigol.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/4A76LQAu4U4HENoM6"
+        },
+        {
+          "name": "6. Sis Dagi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/a7/bd/7e/dsc07704-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/U1H8JJuzynbFZrkJ6"
+        },
+        {
+          "name": "7. Giresun Adası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/c6/1b/ba/giresun-adasi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/pTLPTFCrT8k7ihSg7"
+        },
+        {
+          "name": "8. Giresun Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/81/a6/d8/giresun-muzesi.jpg?w=400&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/WLfiek8F1U7H2Le48"
+        },
+        {
+          "name": "9. Kapu Cami",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/cb/68/fb/kapo-cami.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/YtEHr1bhpZSwm1vT6"
+        },
+        {
+          "name": "10. Haci Miktad Cami",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/81/8c/fe/haci-miktat-camii.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/iHF25VBKbZKnZ9bHA"
+        }
+      ]
+    },
+    {
+      "name": "Sinop",
+      "places": [
+        {
+          "name": "1. Hamsilos Koyu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a8/9b/d4/hamsilos-koyu.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Erfelek Tatlıca Şelaleleri Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ea/52/68/photo1jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/1ErPoRLc3SqYYD9c8"
+        },
+        {
+          "name": "3. İnceburun Feneri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b3/50/4b/inceburun-feneri.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/p4Ao9RrvWJHyfdJ96"
+        },
+        {
+          "name": "4. Sinop Arkeoloji Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d5/3c/97/sinop-arkeoloji-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/TKVSBg4qtRofpVQSA"
+        },
+        {
+          "name": "5. Sinop Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1b/1b/bb/img-20160926-wa0009-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/jYgw86bPREdgMtgM6"
+        },
+        {
+          "name": "6. Sinop Prison",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/63/18/23/eski-sinop-cezaevi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "7. Hamsilos Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/aa/3f/b3/getlstd-property-photo.jpg?w=300&h=300&s=1",
+          "map": "https://maps.app.goo.gl/dZpQbqK3sB9nZF9f6"
+        },
+        {
+          "name": "8. Arslan Torun Konağı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/fa/66/d7/ethnography-museum-arslan.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/xcyVxMtshTNAyweG7"
+        },
+        {
+          "name": "9. Alaattin Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a6/00/bf/alaattin-camii.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Boyabat Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c0/f8/78/kale-ici-surlar.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/rvbzTVxqty5pSb9q9"
+        }
+      ]
+    },
+    {
+      "name": "Kastamonu",
+      "places": [
+        {
+          "name": "1. Hz. Pir Şeyh Şaban-i Veli Külliyesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/b0/ca/e8/kulliye.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/WZykQH7Y5hhyHPgU6"
+        },
+        {
+          "name": "2. Ilıca Şelalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f5/b8/22/20170718-141808-largejpg.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Nasrullah Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/aa/33/44/carsilicami.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/r1PaikZm9LenXfbA7"
+        },
+        {
+          "name": "4. Valla Kanyonu Seyir Terasi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ac/fd/e8/20160610-165057-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/6kGdjHUXWTSfErG68"
+        },
+        {
+          "name": "5. Kastamonu Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a6/d6/21/kastamonu-muzesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Gxpxr9E5DKik7Rhv9"
+        },
+        {
+          "name": "6. Mimar Vedat Tek Kültür ve Sanat Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/17/a7/fe/otel-ne-yazik-ki-kapali.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ddvfGJ3XSchatHzYA"
+        },
+        {
+          "name": "7. Mahmutbey Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/62/ab/52/20161012-164021-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/xV6MrCcVkjfJdGGr6"
+        },
+        {
+          "name": "8. Kastamonu Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c2/62/29/kale.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/iHqo2hZySGpvwqbb8"
+        },
+        {
+          "name": "9. Kastamonu Saat Kulesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/7e/4b/f0/kastamonu-saat-kulesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/7fowMDrVLQ25gSnNA"
+        },
+        {
+          "name": "10. Liva Paşa Konağı Etnografya Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/e3/dd/11/kadin-odasi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/rj4Lu5LcEnJpKDYd8"
+        }
+      ]
+    },
+    {
+      "name": "Zonguldak",
+      "places": [
+        {
+          "name": "1. Gökgöl Mağarası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/bd/28/37/20160828-152646-largejpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/pgzXqYAHYo45kKj56"
+        },
+        {
+          "name": "2. Filyos Plajı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/5d/5c/7c/filyos-plaji-genel-bakis.jpg?w=300&h=300&s=1",
+          "map": "https://maps.app.goo.gl/Ukv1fLpDxdAkwZR27"
+        },
+        {
+          "name": "3. Esas 67 burda",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/c1/13/1c/esas-67-burda-avm.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/LaV8japcgVygSVuJ8"
+        },
+        {
+          "name": "4. Çanakçılar Hayvanat Bahçesi ve Botanik Park",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/94/6b/80/flamingo.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/HVyp9HU8kqeMDkGL7"
+        },
+        {
+          "name": "5. Maden Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/57/ed/8b/photo2jpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Lo1DFY1X4xhEj6MU6"
+        },
+        {
+          "name": "6. Varagel Tüneli",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/74/7f/72/turizme-kazandilrilmak.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/5NuRMBWsVaJLnKAt6"
+        },
+        {
+          "name": "7. Çarşı Pazar Alışveriş Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/1d/bf/f4/pinarcik-koyu-eski-camisi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/iub41FYydNuFmJic8"
+        },
+        {
+          "name": "8. Bastoncular Çarşısı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/4d/a8/c3/bastoncular-carsisi-devrek.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ffPebpaBXvPoED298"
+        },
+        {
+          "name": "9. Atatürk Heykeli",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/a2/e8/4a/ataturk-heykeli-3.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/TzVSdDQZ9neaUfup7"
+        },
+        {
+          "name": "10. Danaağzı Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/02/cb/3e/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/6tCPbMLTGUSaDE6c8"
+        }
+      ]
+    },
+    {
+      "name": "Amasya",
+      "places": [
+        {
+          "name": "1. II. Beyazıt Camisi ve Külliyesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/37/3d/77/20190707-110026-largejpg.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Amasya Arkeoloji Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/75/5f/c4/early-graves.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/GaZXdRASQ1wqSTFg9"
+        },
+        {
+          "name": "3. Boraboy Gölü Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d0/de/24/boraboy-golu-ve-piknik.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/RshUKc6BjwHv9A5TA"
+        },
+        {
+          "name": "4. Kral Kaya Mezarları",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/5a/2b/c4/kral-kaya-tombs.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/ga2i96SqouQcZt1b9"
+        },
+        {
+          "name": "5. Minyatur Amasya Muzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/1f/59/0b/minyatur-3.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/xPya5KvU6FRaBhRz7"
+        },
+        {
+          "name": "6. Amasya Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/72/33/1b/amasya-castle.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/i1D9JBsxKKF3UCzx9"
+        },
+        {
+          "name": "7. Sabuncuoglu Tıp ve Cerrahi Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/6d/a6/71/6-sabuncuoglu.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Yalıboyu Evleri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/05/7c/7d/yaliboyu-evleri.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "9. Mehmet Paşa Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/05/94/b0/mehmet-pasa-camii.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/3UBiq9KJLFbBD4aJ6"
+        },
+        {
+          "name": "10. Amasya Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/99/2f/94/amasya-kalesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/i1D9JBsxKKF3UCzx9"
+        }
+      ]
+    },
+    {
+      "name": "Çorum",
+      "places": [
+        {
+          "name": "1. Alacahöyük Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e3/cc/f6/photo3jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/kdjkeASanVdHxj7s9"
+        },
+        {
+          "name": "2. Çorum Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/6c/f9/cb/6-corum-museum.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/nSpV3tSHUwgqfU2P7"
+        },
+        {
+          "name": "3. Boğazkale Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/9a/0f/23/bogazkale-museum.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Yo4qTeBFzPMxtwFe7"
+        },
+        {
+          "name": "4. Aslanlı Kapı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/e1/85/3c/lion-s-gate.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/wDn3NLMakpTqRXo3A"
+        },
+        {
+          "name": "5. Hattuşaş Antik Kenti Büyük Mabet",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/ba/e8/hattusas-antik-kenti.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/yA2ug3ZstYyix5P46"
+        },
+        {
+          "name": "6. Boğazköy - Alacahöyük Milli Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/5d/94/63/photo1jpg.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "7. Alaca höyük",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/fd/83/2f/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/7bawQQ6yFfEih3L77"
+        },
+        {
+          "name": "8. İncesu Kanyonu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/81/58/e8/incesu-kanyonu.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/thC1WDqjYmieDaRG7"
+        },
+        {
+          "name": "9. AHLPARK",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1a/6d/dd/ahlpark.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/MSSdbLePR2K7k12N9"
+        },
+        {
+          "name": "10. Sıklık Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/21/58/4f/siklik-tabiat-parki.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/V3jHu5wDwU7hSucv6"
+        }
+      ]
+    },
+    {
+      "name": "Tokat",
+      "places": [
+        {
+          "name": "1. Ballıca Mağarası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5f/39/70/photo0jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/8LKNcarCwybcqBwB9"
+        },
+        {
+          "name": "2. Tokat Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/48/05/f8/tokat-museum.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/AWRZMji38y4J5B4N9"
+        },
+        {
+          "name": "3. Taş Han",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/34/ec/e9/1626-1632-yillari-arasinda.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "4. Tokat Mevlevihanesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/78/13/8d/tokat-mevlevihanesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/8u9E3om18DXk27Js9"
+        },
+        {
+          "name": "5. Latifoğlu Konağı Müze Evi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/6d/61/c5/1-latifoglu-konagi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/p3fWnwGr3rrUqtBa7"
+        },
+        {
+          "name": "6. Mahperi Hatun Kervansarayı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/6d/59/f4/1-mahperi-hatun-kervansarayi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/uouaVoqciZ8tyFLEA"
+        },
+        {
+          "name": "7. Atatürk Evi ve Etnografya Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/7d/ad/4d/ataturk-evi-ve-etnografya.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ShbGaf9YvZUPG38LA"
+        },
+        {
+          "name": "8. Almus Baraj Gölü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3f/05/b5/plocienny-dach-nad-fotelami.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/WeVUWSVwM9b8VUdY7"
+        },
+        {
+          "name": "9. Hıdırlık Köprüsü(Taş Köprü)",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/56/1a/9b/photo1jpg.jpg?w=500&h=-1&s=1"
+        },
+        {
+          "name": "10. Ulu Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8c/db/94/ulu-camii-10.jpg?w=500&h=400&s=1"
+        }
+      ]
+    },
+    {
+      "name": "artvin",
+      "places": [
+        {
+          "name": "1. Mençuna Şelalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/cb/27/d8/mencuna-selalesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/CwLrihcfafEis7Kj9"
+        },
+        {
+          "name": "2. Çifte Köprü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/e4/43/f7/img-20180721-162250-largejpg.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Karagol",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1f/94/58/karagol.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/ZhH3VroSJUB6NU5p7"
+        },
+        {
+          "name": "4. Borçka Karagöl Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/16/f8/1b/img-20190627-wa0033-largejpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/N6NA9Peawjp6yrDN7"
+        },
+        {
+          "name": "5. Artvin Atatepe",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/47/e8/6e/atatepe-2.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/HLekVWFqt7cbUxuL7"
+        },
+        {
+          "name": "6. İşhan Kilisesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/01/23/4d/yusufeli-ishan-kilisesi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "7. Maral Şelalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/40/00/dd/maral-selalesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/P5fmH8shpRyWNMam8"
+        },
+        {
+          "name": "8. Karagol Sahara Milli Parki",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/57/e5/69/karagol-sahara-milli.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "9. Kafkasor Arena",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/dd/74/d5/kafkasor-arena.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Ücra Sahaf",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/cb/ff/17/caption.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/EUdsbnqAubsfJr396"
+        }
+      ]
+    },
+    {
+      "name": "bayburt",
+      "places": [
+        {
+          "name": "1. Kenan Yavuz Etnoğrafya Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/e3/1c/24/kapi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Q4uerW3VYxVhVNfM6"
+        },
+        {
+          "name": "2. Çoruh Nehri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/31/40/b4/5-coruh-nehri.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/MMYZ1Y3FbCkSV9R99"
+        },
+        {
+          "name": "3. Bayburt Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/10/c3/53/bayburt-kalesi-halim.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/14VxjPW83gKKzyd39"
+        },
+        {
+          "name": "4. Baksı Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/de/04/a4/baksi-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/WEu7p8KXhd7LX6Rz8"
+        },
+        {
+          "name": "5. Aydıntepe Yeraltı Şehri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/68/cc/60/aydintepe-yeralti-sehri9.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Kop Dağı Müdafası Tarihi Milli Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/31/39/9c/7-kop-dagi-mudafasi-tarihi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "7. Dede Korkut Kümbeti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/e6/9c/36/dede-korkut-kumbeti-2.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/YXwwkS2Q4DiEpVGM6"
+        },
+        {
+          "name": "8. Bayburt Şehitliği",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f7/ec/7c/bayburt-sehitligi-10.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/PhD5SvSMtQUX8dcQ9"
+        },
+        {
+          "name": "9. Yakupabdal Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e7/77/db/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/wBNtv1D6P2XwMkS58"
+        },
+        {
+          "name": "10. Bayburt Saat Kulesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/42/89/db/bayburt-saat-kulesi-clock.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/cFukFkM1xQRkjgnB6"
+        }
+      ]
+    },
+    {
+      "name": "gümüşhane",
+      "places": [
+        {
+          "name": "1. Karaca Cave",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/9c/00/e6/stalactites-and-stalagmites.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/5J6nkqgEsbPVpAhAA"
+        },
+        {
+          "name": "2. Tomara Şelalesi Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/19/50/ae/tomara-selalesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/EDG2nECqQhKFRR2C7"
+        },
+        {
+          "name": "3. Torul",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/2d/f8/2c/muhtesem.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/aurmfPScg6SB9mjb6"
+        },
+        {
+          "name": "4. Taşköprü Yaylası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/01/5e/10/20181007-152550-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/9BnZuUrvnhTfXnu78"
+        },
+        {
+          "name": "5. Limni Gölü Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ad/42/72/limni-golu-tabiat-parki.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. İkizevler Kent Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/3d/b6/66/photo4jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/YXqR8i8QyuJioHbv6"
+        },
+        {
+          "name": "7. Artabel Gölleri Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/e6/42/b5/artabel-golleri-tabiat.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/rgM98sLRsKtWRSUC9"
+        },
+        {
+          "name": "8. Örümcek Ormanı Tabiatı Koruma Alanı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/34/09/40/orumcek-ormanlari.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/TFCQXvPjtWYzCpGU8"
+        },
+        {
+          "name": "9. Torul Glass Observation Terrace",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/3d/2d/1d/torul-glass-observation.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Kov Kalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/17/7f/97/buyuleyici.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/JwUx4kC87FaBaD3y6"
+        }
+      ]
+    },
+    {
+      "name": "bolu",
+      "places": [
+        {
+          "name": "1. Yedigöller Milli Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/54/0e/b7/yedigoller-buyukgol.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/1nenDgyvvvTij35W6"
+        },
+        {
+          "name": "2. Gölcük Gölü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b0/e9/fb/photo3jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/uKaU1SDNbNPPUAu86"
+        },
+        {
+          "name": "3. Abant Gölü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b0/ee/42/photo2jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/kLWYVzdCwEXF37Er9"
+        },
+        {
+          "name": "4. Gölcük Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/0f/28/ef/misafirhane.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Kartalkaya - Bolu Köroğlu Kış Turizm Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ea/1e/c9/kartalkaya-nin-harika.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Bolu Dağı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c0/ca/ad/bolu-dagi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/xWn7U9Am8ex9sAwy7"
+        },
+        {
+          "name": "7. Seben Kaya Evleri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/53/13/63/seben-kaya-evleri.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/kfLXmB5sGVw6HtWo9"
+        },
+        {
+          "name": "8. Highway Outlet",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/5d/03/e5/ta-img-20151029-152219.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/heqis1cGQBM76yqs8"
+        },
+        {
+          "name": "9. Tokadı Hayreddin Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/11/71/59/2017.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/XDNnazFrk5Xm2UE77"
+        },
+        {
+          "name": "10. Bolu Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/68/77/dd/20160709-172304-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/NNBk5ke9jnZV5XRp8"
+        }
+      ]
+    },
+    {
+      "name": "düzce",
+      "places": [
+        {
+          "name": "1. Güzeldere Selalesi Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/65/5a/68/bir-doga-harikasi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/pc15cNqaqbj8raUo7"
+        },
+        {
+          "name": "2. Samandere Şelalesi Tabiat Anıtı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/33/ec/64/20160508-161105-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/paE34TTFnPQrZu2D7"
+        },
+        {
+          "name": "3. Aydınpınar Şelaleleri Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/d2/7b/f5/aydinpinar.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/6FSuxdgqTDTY9DR49"
+        },
+        {
+          "name": "4. Konuralp Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/43/81/4a/20190423-111654-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/p2VGQfXGoXQfBdTi8"
+        },
+        {
+          "name": "5. Aktaş Şelalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/23/88/2b/manzara-harika-ve-gorulmeye.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/pSMuho3M7MQ2Wur19"
+        },
+        {
+          "name": "6. Çamlıpınar Göleti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/f9/9a/68/camlipinar-goleti.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/xH6WbRdprc8n7xtb7"
+        },
+        {
+          "name": "7. Özdilek",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/3b/c5/cd/ozdilek-duzce-avm-hipermarketi.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Efteni Golu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/56/f7/43/caption.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/AR4FBN59boPCgcjDA"
+        },
+        {
+          "name": "9. Düş Yolcusu Çiftliği",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/00/02/56/binef-at-ciftligi-bu.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/jpHJHWr4KEUyAHk59"
+        }
+      ]
+    },
+    {
+      "name": "bartın",
+      "places": [
+        {
+          "name": "1. İnkum Plajı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/67/15/1e/genel-gorunum.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/gGUogaNNca49Ao4d7"
+        },
+        {
+          "name": "2. Ulukaya Kanyonu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/e9/91/51/bu-tarz-guzel-cekimler.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Bartın Kent Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/3d/52/05/bartin-kent-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/bbfAisJnki62obko9"
+        },
+        {
+          "name": "4. Mugada Plajı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/96/72/10/caption.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/CSg5CVoFWhQtBCZE9"
+        },
+        {
+          "name": "5. Balamba Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/db/d4/91/getlstd-property-photo.jpg?w=300&h=300&s=1",
+          "map": "https://maps.app.goo.gl/KMP3K1rF7zNmUmk98"
+        },
+        {
+          "name": "6. Uluyayla",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/2f/f1/14/uluyayla.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/TEWEdA92Hizeda7L9"
+        },
+        {
+          "name": "7. Kupa Pub",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d8/c0/eb/kupa-pub.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/UmBMRRQWjsF5mUro9"
+        }
+      ]
+    },
+    {
+      "name": "karakümrük",
+      "places": [
+        {
+          "name": "1. Şeker Kanyonu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/37/14/af/seker-kanyonu.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/CxkMDv58TvbPPYXZ8"
+        },
+        {
+          "name": "2. Baklabostan Şelalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d4/6a/43/photostudio-1490907043665.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/VixucPjq1kwCrNwg6"
+        },
+        {
+          "name": "3. Egriova Goleti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/62/83/a5/egriova-goleti.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/mtUQBYtEGQjdjnQ57"
+        },
+        {
+          "name": "4. Yenice Ormanı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/68/9e/f0/kesinlikle-gormeye-deger.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Hadrianapolis Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/95/92/5a/roma-hamami.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/rPxyaSKaS7EWYzuh9"
+        },
+        {
+          "name": "6. Çamlık Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/92/c4/81/nefis-bir-manzara.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/hk3gNGFCMx7GL6eZA"
+        }
+      ]
+    },
+    {
+      "name": "edirne",
+      "places": [
+        {
+          "name": "1. 2. Bayezid Külliyesi ve Şifahane",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ce/a0/af/cicek.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/4zCQfhUhBgA5XHVh9"
+        },
+        {
+          "name": "2. Selimiye Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4c/f7/67/the-magnificent-interior.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/1VAGpjdEXfFMTZq6A"
+        },
+        {
+          "name": "3. Karaağaç",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/0d/37/cf/train-station.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/68KajMeVaMkR56dy8"
+        },
+        {
+          "name": "4. Meriç Köprüsü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/48/bd/e8/the-bridge.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Karaağaç Tren İstasyonu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/64/4a/ad/20160805-122503-largejpg.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Eski Cami",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/84/c5/1c/eski-cami.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "7. Üç Şerefeli Cami",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/66/4b/41/uc-serefeli.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/TqPxXgzhZreEAGN46"
+        },
+        {
+          "name": "8. Edirne Arkeoloji Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/54/9f/45/wwwrahmetturizmcomtr.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/8Zw5JXKx7S4nkN5g8"
+        },
+        {
+          "name": "9. Edirne Buyuk Sinagogu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/fe/68/04/edirne-buyuk-sinagog.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/Wyo8MQJ5VNLxpNM79"
+        },
+        {
+          "name": "10. Erasta",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/96/3e/c6/erasta.jpg?w=500&h=400&s=1",
+          "map": ""
+        }
+      ]
+    },
+    {
+      "name": "istanbul",
+      "places": [
+        {
+          "name": "1. AYASOFYA ULU CAMİİ",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/54/be/42/hagia-sophia-museum-by.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/toQXZ4R6t9A4sKsA8"
+        },
+        {
+          "name": "2. Basilica Cistern",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/3a/2c/dd/istanbul-36h-basilica.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/vHgdyAvtqmxiLEiB9"
+        },
+        {
+          "name": "3. Suleymaniye Mosque",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ac/57/31/suleymaniye.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/aGcrvgPY9YynDai68"
+        },
+        {
+          "name": "4. Sultanahmet Bölgesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/81/e6/a0/img-20181123-163637-largejpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/b5H3RrsQoJCwLx5Q6"
+        },
+        {
+          "name": "5. Topkapı Sarayı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/54/c7/fd/topkapi-palace-museum.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/JPdUiLy2zqpVv8pK8"
+        },
+        {
+          "name": "6. Sultanahmet Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/59/ff/1e/blue-mosque-istanbul.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/RzpxqWFAEF3Ndaxf6"
+        },
+        {
+          "name": "7. Boğaziçi Kıyısı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/e7/df/20/bosphorus-yalis.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Historic Areas of Istanbul",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/1d/71/63/some-of-the-most-visited.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/cjY7BCwSGopEGawq6"
+        },
+        {
+          "name": "9. Dolmabahçe Palace",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/82/07/24/palacio-de-dolmabahce.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/DSWG9go7xpcCGRKf9"
+        },
+        {
+          "name": "10. Galata Kulesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/db/c5/4d/photo0jpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/5oww9UtapWE12Fgg9"
+        }
+      ]
+    },
+    {
+      "name": "kırklareli",
+      "places": [
+        {
+          "name": "1. Sokullu Mehmet Paşa Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/78/2d/31/img-20181121-181042-largejpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/uivccw2aHDggTRdq7"
+        },
+        {
+          "name": "2. Atatürk Evi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/5d/25/42/ataturk-evi.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Dupnisa Mağarası",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/4d/92/bf/magara.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "4. Kıyıkoy Ciftligi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/56/34/e9/yol-boyunca-gelincikler.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Igneada Longoz Ormanları Milli Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d5/4b/63/photo2jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/EUTdbgizFqDJzC6s6"
+        },
+        {
+          "name": "6. Istasyon Caddesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/9f/3d/c3/gezdim-gordum.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Uw3b6iNeUAVieSWo9"
+        },
+        {
+          "name": "7. Arcadia Bağları",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/2d/4c/b0/photo3jpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/2v7GHAYFWYZkX69M8"
+        },
+        {
+          "name": "8. Aicha Lavanta",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/34/d1/47/filitresiz-fotograflara.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/4NCKgGfL3fK7ehTx8"
+        },
+        {
+          "name": "9. Küçük Ayasofya - Gazi Süleyman Paşa Cami",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/59/67/9d/kucuk-ayasofya-gazi-suleyman.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/QeFfRgzpJSvdVhxE6"
+        },
+        {
+          "name": "10. 39 Burda Avm",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/37/2b/fe/the-so-called-street.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/WAB9jF7vaqMpZ7Pz5"
+        }
+      ]
+    },
+    {
+      "name": "tekirdağ",
+      "places": [
+        {
+          "name": "1. Tekirdağ Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/01/b6/b4/tekirdag-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/SVdupTTuTb1SkFTa7"
+        },
+        {
+          "name": "2. Rustem Paşa Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/52/32/10/rustem-pasa-camisi-52.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/kJVgCBVknyeQyDyF8"
+        },
+        {
+          "name": "3. Tekira Alışveriş Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/94/79/44/tekira-alisveris-merkezi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/UsocHpqMq8Bez2Db7"
+        },
+        {
+          "name": "4. Melen Şarapçılık",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/48/51/03/caption.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/FXi8XJXXP3FRVm2N6"
+        },
+        {
+          "name": "5. Barel Vineyards",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/9e/1f/72/barel-vineyards.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/KEtfEFmBDF5gzXdc6"
+        },
+        {
+          "name": "6. Barbare Vineyards",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/53/51/66/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/7gdoxx4kMvptCBaeA"
+        },
+        {
+          "name": "7. Ucmakdere",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2b/02/af/ucmakdere.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/yTC5RdjcY4xVKXg57"
+        },
+        {
+          "name": "8. Rakoczi Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d8/72/ff/rakoczi-muzesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/DgVVDZYLKDsvVfk38"
+        },
+        {
+          "name": "9. The Gallipoli Artist - Art Inspired Journeys Through Turkey",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/43/70/92/the-gallipoli-artist.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Orta Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/4a/92/83/orta-camii-5.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/sYkfvTGiMgN1M4FV7"
+        }
+      ]
+    },
+    {
+      "name": "kocaeli",
+      "places": [
+        {
+          "name": "1. Ormanya",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/2a/b4/ab/img-20190120-141047-largejpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/FUHUGyH7eLxCe3pF9"
+        },
+        {
+          "name": "2. Seka Park",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/b2/92/bb/seka-park-izmit-kocaeli.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/AgiF1W46Q2c5MRsw9"
+        },
+        {
+          "name": "3. Gayret Gemi Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/4d/84/7e/gayret-gemi-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/BGdqu6APqs7VYD9M9"
+        },
+        {
+          "name": "4. İzmit Saat Kulesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/54/1f/7e/izmit-saat-kulesi-kocaeli.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/DZrXNfT88EBWco2V8"
+        },
+        {
+          "name": "5. Outlet Center İzmit",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/20/05/dc/ta-img-20160928-152224.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/y48LyHoq16eQ1xoV6"
+        },
+        {
+          "name": "6. Kocaeli Bilim Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8f/35/4f/izmit-bilim-muzesi-4.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/f357JRbiNfdMjjDH8"
+        },
+        {
+          "name": "7. Pembe Kayalar",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/9e/ff/5f/photo0jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/91tUjBkV7JG6xSGAA"
+        },
+        {
+          "name": "8. Faruk Yalcin Hayvanat Bahcesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/3a/a0/49/nisan-2019-taner-varol.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "9. Kartepe Ski Center",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/9e/d7/30/kartepe-ski-center.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/trDsPSKyL6thDzzcA"
+        },
+        {
+          "name": "10. Osman Hamdi Bey Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/73/0f/c6/photo0jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/Xng8sai5ws1i4e9f9"
+        }
+      ]
+    },
+    {
+      "name": "sakarya",
+      "places": [
+        {
+          "name": "1. Agora Adapazarı AVM",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/32/9a/72/a.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/p9qnD8Rty1NfbQhQA"
+        },
+        {
+          "name": "2. Sakarya Şehitliği",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f6/a5/92/sakarya-sehitligi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/4wMBXxop41ojQMRd7"
+        },
+        {
+          "name": "3. Sakarya Gölpark",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/7f/50/ce/sakarya-golpark.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Kraz11a9BHm3P4pb9"
+        },
+        {
+          "name": "4. Poyrazlar Gölü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a3/ea/42/photo0jpg.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Keremali Golu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/bf/23/c4/keremali-golu.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/As991hgYzQs7xrpz7"
+        },
+        {
+          "name": "6. Doğançay Şelalesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d9/44/b8/photo1jpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/T7imNL8BN9hRBcWm8"
+        },
+        {
+          "name": "7. Kent Park",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/02/31/3e/kentpark-adapazari-sakarya.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/NwWj3qgeky4rmXGJ6"
+        },
+        {
+          "name": "8. Sakarya Park",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/73/39/83/sakarya-park.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/n2RFFaZ7P2rQCDWKA"
+        },
+        {
+          "name": "9. Serdivan Tepesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/77/18/33/p-20180504-122714-largejpg.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Sakarbaba Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/6d/03/f8/sakarbaba-turbesi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/TJQ8kDqtfms1xz4D8"
+        }
+      ]
+    },
+    {
+      "name": "bilecik",
+      "places": [
+        {
+          "name": "1. Ertugrul Gazi Turbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/aa/45/6e/ertugrul-gazi-turbesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/9sjM1pggTw7iyWio7"
+        },
+        {
+          "name": "2. Şeyh Edebali Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/5e/b4/e1/bilecik-seyh-edebali.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Dursun Fakih Türbesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/26/e0/8b/dursun-fakih-yolu.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/qd43Rg7p3qhEFSjt8"
+        },
+        {
+          "name": "4. Söğüt Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/e8/2a/ad/sogut-muzesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/rLhEvrHFXpi5651M6"
+        },
+        {
+          "name": "5. Harmankaya Kanyonu Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/28/b8/9e/kanyon-cevresi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/JpkpEnvRQEtnNyrY8"
+        },
+        {
+          "name": "6. Hamidiye Camii",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/1d/0b/d0/bilecik.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/7mSvA83YpULCKoUD8"
+        },
+        {
+          "name": "7. Pelitözü Göleti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/23/13/ed/p.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/MGMNkrg7osPkMgic9"
+        },
+        {
+          "name": "8. Küçükelmalı Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e0/1a/57/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Cf8me9HKB3VskceG7"
+        },
+        {
+          "name": "9. Orhangazi Cami",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/22/2d/ef/orhangazi-cami-18.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/ATWn6uozHCxoFXqs6"
+        },
+        {
+          "name": "10. Köprülü Mehmet Paşa Kervansarayı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/14/4e/00/koprulu-mehmet-pasa-kervansara.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/ic7wNmRBpciTJM3Z7"
+        }
+      ]
+    },
+    {
+      "name": "çanakkale",
+      "places": [
+        {
+          "name": "1. Truva Antik Kenti",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ad/d6/49/img-20190305-183009-largejpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/pPsoy98ro3eYGVeU6"
+        },
+        {
+          "name": "2. Çanakkale Deniz Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/fe/ad/b2/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/gc4GcbhzYLZvTFUSA"
+        },
+        {
+          "name": "3. Canakkale Truva Heykeli",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/12/5a/dd/canakkale-truva-heykeli.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/ibxFocHEYU48nzy38"
+        },
+        {
+          "name": "4. Troya Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/88/36/a4/welcome-to-troy.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Aqualand Canakkale",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/fd/1f/23/p-20160714-185436-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/hur4qEZcLraPiCin7"
+        },
+        {
+          "name": "6. Kabatepe Kumsalı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/40/95/17/cok-sessiz-ve-sakin.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/SWm2fFCohnvYbtYd7"
+        },
+        {
+          "name": "7. Akbaş Şehitliği",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/24/9b/40/akbas-sehitligi-4.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/DXyaAbtsQH3cXysw9"
+        },
+        {
+          "name": "8. Rhapsodos Mozaik",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/af/51/79/lutfen-rezervasyon-yaptiriniz.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/J4tomrqyJ2t8X9Hg9"
+        },
+        {
+          "name": "9. Conk Bayırı Mehmetçik Park Anıtı Kemalyeri Yazıtı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c0/6d/68/conk-bayiri-mehmetcik.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "10. Aynali Carsi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a8/e2/33/aynali-carsi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/XpU73wyY9nNgPuVX9"
+        }
+      ]
+    },
+    {
+      "name": "bursa",
+      "places": [
+        {
+          "name": "1. Ulu Cami",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8e/15/cb/interior.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/wB2Fksc3qSdD7ZjD9"
+        },
+        {
+          "name": "2. Koza Hanı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2e/1f/51/screenshot-2018-10-28.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/FsqR2x4YPvTLzZ72A"
+        },
+        {
+          "name": "3. Bursa Teleferik",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/03/cd/87/bursa-teleferik-2018.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/Syzvs7zBHXeoGAtm9"
+        },
+        {
+          "name": "4. Osman Gazi ve Orhan Gazi Türbeleri",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/aa/4c/af/orhan-gazi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "5. Yeşil Türbe",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1b/97/71/caption.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/8bJgSAnTJVqis28s8"
+        },
+        {
+          "name": "6. Green Mosque",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/ba/86/57/iznik-green-mosque.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/SDs1E8NzkmyVM6Gr9"
+        },
+        {
+          "name": "7. Cumalıkızık",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1c/8f/b8/uludag-in-eteklerinde.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/deTcwuC8A7bZ2Jyh9"
+        },
+        {
+          "name": "8. Uludağ Kayak Merkezi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/87/73/8c/uludag-kayak-merkezi.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/7FcjHvZp6GopKpy48"
+        },
+        {
+          "name": "9. Muradiye Külliyesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/28/a5/7a/sehzade-ahmet-turbesi.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/1V5mu97XyoXmuQSf7"
+        },
+        {
+          "name": "10. Emir Sultan Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/97/08/c6/photo0jpg.jpg?w=500&h=-1&s=1",
+          "map": ""
+        }
+      ]
+    },
+    {
+      "name": "balıkesir",
+      "places": [
+        {
+          "name": "1. Kaz Dağları",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/4e/9f/90/kaz-mountains.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/gYaQHWmdiCBqDSyp8"
+        },
+        {
+          "name": "2. Sarımsaklı Plajı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/db/a0/05/sarimsakli-plaji.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Sevim and Necdet Kent Library",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/18/a2/3d/20180809-125029-largejpg.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/mi9pBdBKicSVWfW98"
+        },
+        {
+          "name": "4. Kazdagı Milli Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a3/94/4c/kazdagi-milli-parki.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/KfHxWWaSCnjjmLLA8"
+        },
+        {
+          "name": "5. Hayrettin Pasa Camisi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/67/19/91/hayrettin-pasa-camisi.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Degirmen Bogazi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0f/7a/24/small-waterstream-picnick.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/RpUJ7CDGkhK9z48G8"
+        },
+        {
+          "name": "7. Değirmenboğazı Tabiat Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/1f/0f/c8/getlstd-property-photo.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/RpUJ7CDGkhK9z48G8"
+        },
+        {
+          "name": "8. Tahtakuşlar Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/be/51/79/tahtakuslar.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/xLqD7k8WtZw8Ee557"
+        },
+        {
+          "name": "9. Kuvayı Milliye Müzesi",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/77/65/5b/img-20161023-134847-largejpg.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/Hzn6aaCgLzKzQgd68"
+        },
+        {
+          "name": "10. Seyit Onbaşı Mezarı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1a/10/22/seyit-onbasi-mezari.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/zzcUBrxQopTPpPnb7"
+        }
+      ]
+    },
+    {
+      "name": "yalova",
+      "places": [
+        {
+          "name": "1. Lavanta Yalova",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/e3/1a/07/lavanta-yalova.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "2. Yürüyen Köşk",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/9c/f2/3a/20160817-163219-largejpg.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "3. Karaca Ağaç Parkı",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/3e/cb/7e/20151227-133913-largejpg.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "4. Yalova Kent Orman Çifte Şelale",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/8b/fb/dd/yalova-kent-orman-cifte.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/fBuSS8pRNVfuHM9C7"
+        },
+        {
+          "name": "5. Erikli Waterfall",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/5b/48/85/baba.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "6. Dipsiz Göl",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/3e/c3/d5/20160424-173459-largejpg.jpg?w=500&h=400&s=1",
+          "map": ""
+        },
+        {
+          "name": "7. Termal Çınarlı Hıyaben Yolu",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/81/9f/95/cinarli-yol.jpg?w=500&h=-1&s=1",
+          "map": ""
+        },
+        {
+          "name": "8. Osmangazi Köprüsü",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/5d/f9/c6/osmangazi-koprusu.jpg?w=500&h=-1&s=1",
+          "map": "https://maps.app.goo.gl/szGQ5JSa8yFoj3jWA"
+        },
+        {
+          "name": "9. Setur Marina",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/2f/84/9a/y.jpg?w=500&h=400&s=1",
+          "map": "https://maps.app.goo.gl/BJeiWxwquJPuUkuv8"
+        },
+        {
+          "name": "10. Yeşil Mavi Yol",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/cb/d4/30/kendinize-yolculuga-cikabilece.jpg?w=500&h=400&s=1",
+          "map": ""
+        }
+      ]
+    }
+  ]
