@@ -14,12 +14,8 @@ function Marmara() {
   const list = [];
 
   function getJSONData(name) {
-    console.log(name.toString().toLowerCase());
     for(let i = 0;i<akdenizJson.length;i++){
-      console.log((akdenizJson[i].name).toLowerCase())
-      console.log((name).toString().toLowerCase() == (akdenizJson[i].name).toString().toLowerCase())
       if((name).toString().toLowerCase() === (akdenizJson[i].name).toLowerCase()){
-        console.log(akdenizJson[i].places[0].name);
         for(let j = 0;j<akdenizJson[i].places.length;j++){
           list.push(akdenizJson[i].places[j]);
         }
@@ -47,7 +43,7 @@ function Marmara() {
     <div class="svg-turkiye-haritasi">
     <h2 className="title">Marmara Bölgesi</h2>
         <svg version="1.1" id="svg-turkiye-haritasi" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" viewBox="0 0 1007.478 527.323" xmlSpace="preserve">
-        <g id="istanbul"  onClick={setIlNameOnClick} data-iladi="istanbul">
+        <g id="istanbul"  onClick={setIlNameOnClick}  data-plakakodu="34" data-alankodu="216" data-iladi="istanbul">
     <g id="istanbul" onClick={setIlNameOnClick} data-plakakodu="34" data-alankodu="216" data-iladi="istanbul">
       <path
         d="M187.613,66.733l-2.876,1.342l-2.063,2.218l0.561,1.719l0.062,0.188l-0.125,0.188l-2.002,3.78 l-0.031,0.062l-0.062,0.062l-1.657,1.78l-0.564,3l1.593,1.595l0.031,0.031l2.093,2.47l0.031,0.031l2.249,2.282l0.062,0.031 l3.499,1.877l0.156,0.094l0.062,0.156l1.03,2.439l3.593,1.533l1.376-2.53l0.031-0.094l1.221-3.937l0.657-2.156l0.031-0.188 l0.188-0.094l3.657-2.154h0.031l2.626-1.405l0.188-0.062l0.188,0.031l1.625,0.376l0.094,0.031l0.062,0.031l3.593,2.158 l2.219-0.53l3.032-1.529h0.031l2.595-1.249h0.031l3.689-2.123l0.627-2.875c-0.638-0.155-3.737-0.913-4.593-1.159 c-0.842-0.24-4.405-1.127-4.405-1.127l-7.437-1.629l-0.031-0.031h-0.031l-5.561-1.878v-0.031h-0.031l-5.624-2.347L187.613,66.733 z" />
